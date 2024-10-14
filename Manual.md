@@ -379,7 +379,7 @@ D r a w a c a r d l e s s f o r t h e c a r d y o u p l a y O R P l a y a n a d 
 
 Draw an additional 3 cards and keep 1 additional card.
 
-## Game Board Game Board
+## Game Board (page 4)
 
 The game board has four sections:
 
