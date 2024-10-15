@@ -345,47 +345,7 @@ He also has a project card with variable VP worth 1 VP per 2 animals on the card
 
 Bob's final score is 25+6+9+3=43.
 
-## Iv
-
-## I-Ii
-
-Beam from a Thorium Beam from a Thorium Adaptation Technology Adaptation Technology 1010 2020 Asteroid Asteroid
-
-2323
-
-1212
-
-## Advanced Ecosystems Advanced Ecosystems
-
-## Interstellar Colony Ship Interstellar Colony Ship
-
-24
-
-- =1 VP per 2 animals on this card.Effect: When you play a , including these, add an animal to this card.
-
-## Ecological Zoneecological Zone
-
-**1111I-II
-
-11
-
-11
-
-33
-
-44
-
-Effect: When playing a card with requirements, you may consider the oxygen or temperature one color R@ Requires a P, a M, and an A. higher or lower. This cannot be modified further by other effects. 116
-
-R Requires a J. During the production phase, this produces 1 plant and 3 heat.
-
-## R@ Requires 4 C.
-
-65
-
-82
-
-## Symbols Symbols
+## SYMBOLS
 
 All abilities and requirements on project cards are shown both with symbols and explained in text. Below is a glossary of all symbols you will see on project cards.
 
