@@ -13,7 +13,7 @@ The game board has four sections:
 
 5. TEMPERATURE TRACK - When you raise the temperature, advance the cube on this track and gain 1 TR.
 
-The oxygen and temperature tracks are each divided into four colors: purple, red, yellow, and white. Certain cards will require the oxygen or temperature to be in certain color zones.
+- The oxygen and temperature tracks are each divided into four colors: purple, red, yellow, and white. Certain cards will require the oxygen or temperature to be in certain color zones.
 
 ## CARD ANATOMY (page 5)
 
