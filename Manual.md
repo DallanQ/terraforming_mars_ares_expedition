@@ -15,34 +15,6 @@ The game board has four sections:
 
 The oxygen and temperature tracks are each divided into four colors: purple, red, yellow, and white. Certain cards will require the oxygen or temperature to be in certain color zones.
 
-1
-
-## Terraforming Rating Track
-
-3
-
-## Phase Tokens
-
-2
-
-## Oceans
-
-## Oxygen Track
-
-4
-
-5
-
-## Temperature Track
-
-## Iv
-
-## Iii
-
-## I-Ii
-
-## Iii
-
 ## CARD ANATOMY (page 5)
 
 ### PROJECT CARDS 
