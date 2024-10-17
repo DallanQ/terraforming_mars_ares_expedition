@@ -15,21 +15,25 @@ The game board has four sections:
 
 The oxygen and temperature tracks are each divided into four colors: purple, red, yellow, and white. Certain cards will require the oxygen or temperature to be in certain color zones.
 
+>  image of a board with the terraforming rating track along the top, the oceans in the middle, the phase tracking tokens on the far right, the oxygen track to the right of the oceans, and the temperature track to the left of the oceans.
+
 ## CARD ANATOMY (page 5)
 
-### PROJECT CARDS 
+### PROJECT CARDS (page 5)
 
 Project cards are the backbone to building a powerful corporation in order to win the game. It is important to note that at any time you may discard a project card in your hand to gain 3 MC. Project cards have the following pieces of information on them:
 
-1. NAME
+> > image of cards with the name at the top, the cost in the upper-left corner, the requirement below the cost on the left, the tags down the left side, the color on the left, the effect, production, capability and action at the bottom left, the ability at the bottom right, the vp down the right side and the card number underneath the ability.
+
+1. **NAME**
   
-2. COST - This is how much MC you must spend in order to play the card.
+2. **COST** - This is how much MC you must spend in order to play the card.
 
-3. REQUIREMENT - Some cards have additional requirements in order to play them. This is shown in brief here and in more detail in the ability section (11) of the card.
+3. **REQUIREMENT** - Some cards have additional requirements in order to play them. This is shown in brief here and in more detail in the ability section (11) of the card.
 
-4. TAGS - Cards can have up to three tags. Tags have no inherent value but are referenced in the ability section of many cards. 
+4. **TAGS** - Cards can have up to three tags. Tags have no inherent value but are referenced in the ability section of many cards. 
 
-5. COLOR - There are three colors of cards: blue (active), green (automated), and red (event).
+5. **COLOR** - There are three colors of cards: blue (active), green (automated), and red (event).
 
 A. Blue cards either have effects that trigger when certain things happen or actions that can be used during the action phase.
 
@@ -37,75 +41,87 @@ B. Green cards have resources that are gained in the production phase or have st
 
 C. Red cards have effects that happen immediately and do not provide any additional impact after they are played, other than the tags they provide that can be referenced by other cards.
 
-6. EFFECT (Purple) - This appears only on blue cards and shows icons representing an effect which triggers when certain criteria are met. If an effect's condition is met multiple times when a card is played, then resolve the effect multiple times.
+6. **EFFECT** (Purple) - This appears only on blue cards and shows icons representing an effect which triggers when certain criteria are met. If an effect's condition is met multiple times when a card is played, then resolve the effect multiple times.
 
-7. PRODUCTION (Orange) - This appears only on green cards and shows the icons of what this card produces during the production phase.
+7. **PRODUCTION** (Orange) - This appears only on green cards and shows the icons of what this card produces during the production phase.
 
-8. CAPABILITY (Gray) - This appears only on green cards and shows that this card has steel or titanium capabilities.
+8. **CAPABILITY** (Gray) - This appears only on green cards and shows that this card has steel or titanium capabilities.
 
-9. ACTION (Blue) - This appears only on blue cards and shows icons representing actions which happen during the action phase.
+9. **ACTION** (Blue) - This appears only on blue cards and shows icons representing actions which happen during the action phase.
 
-10. ACTIVE PHASES - This section only appears on green and blue cards. The roman numerals represent the phases in which the card's ability can be used.
+10. **ACTIVE PHASES** - This section only appears on green and blue cards. The roman numerals represent the phases in which the card's ability can be used.
 
-11. ABILITY - This section lists any additional requirements needed to play the card ( ), any immediated effects of the card ( ) and the ability of the card.
+11. **ABILITY** - This section lists any additional requirements needed to play the card (an icon of a golden check mark in a golden circle), any immediated effects of the card (an icon of electricity) and the ability of the card.
 
-12. VP -This section shows how many points this card is worth at the end of the game.
+12. **VP** -This section shows how many points this card is worth at the end of the game.
 
-13. CARD NUMBER
+13. **CARD NUMBER**
 
 ### CORPORATION CARDS (page 6)
 
 These cards represent the corporation each player is acting as. Corporation cards have five parts:
 
-1. NAME
+> Image of a card with name at the top, a tag at the upper left corner, logo at the top middle, starting resources below the logo and beside the name, and the effect/action at the bottom of the card.
 
-2. TAG - Tags have no inherent value but are mentioned in the ability section of many cards.
+1. **NAME**
+
+2. **TAG** - Tags have no inherent value but are mentioned in the ability section of many cards.
   
-3. LOGO
+3. **LOGO**
    
-4. STARTING RESOURCES - This section tells you how many mega credits (MC) you gain at the start of the game. It may also tell you if you start with any production or other abilities.
+4. **STARTING RESOURCES** - This section tells you how many mega credits (MC) you gain at the start of the game. It may also tell you if you start with any production or other abilities.
 
-5. EFFECT/ACTION - This shows any ongoing effects or actions you have access to during the game.
+5. **EFFECT/ACTION** - This shows any ongoing effects or actions you have access to during the game.
 
-### PHASE CARDS 
+### PHASE CARDS (page 6)
 
 Players use phase cards to choose which phases they want to play this round. Phase cards have four parts:
 
-1. PHASE NUMBER - The phases are resolved in order based on this number.
+> Image of a card with the phase number at the upper left corner, name beside the phase number, ability at the middle of the card and bonus at the bottom of the card 
 
-2. NAME
+1. **PHASE NUMBER** - The phases are resolved in order based on this number.
 
-3. ABILITY - This is the effect that all players will resolve during this phase.
+2. **NAME**
 
-4. BONUS - This is the additional effect that you will resolve during this phase only if you selected this phase this round.
+3. **ABILITY** - This is the effect that all players will resolve during this phase.
+
+4. **BONUS** - This is the additional effect that you will resolve during this phase only if you selected this phase this round.
 
 ## Player Board (page 6)
 
 The player board keeps track of your current resources and production. Resource cubes are placed in their respective boxes, and player markers are used on the production tracks.
 
-1. PHASES - A brief description of the phases.
+1. **PHASES** - A brief description of the phases.
 
-2. PRODUCTION TRACKS - When you gain production of a resource, move the corresponding cube on its track. Add a second cube to the right column if needed. There are four types of production: (a.) MC, (b.) card, (c.) heat, and (d.) plant. The production tracks show how much of each resource you will gain during the production phase.
+2. **PRODUCTION TRACKS** - When you gain production of a resource, move the corresponding cube on its track. Add a second cube to the right column if needed. There are four types of production: (a.) MC, (b.) card, (c.) heat, and (d.) plant. The production tracks show how much of each resource you will gain during the production phase.
 
-Example: If you gain two heat production on the first turn, move your player cube on the heat production track from 0 to 2.
+*Example: If you gain two heat production on the first turn, move your player cube on the heat production track from 0 to 2.*
 
-3. RESOURCES - Whenever you gain (a.) MC, (b.) heat, or (c.) plants, place the copper, silver, and gold cubes into the section corresponding to the resource gained. The copper cubes are worth 1, the silver 5, and the gold 10.
+3. **RESOURCES** - Whenever you gain (a.) MC, (b.) heat, or (c.) plants, place the copper, silver, and gold cubes into the section corresponding to the resource gained. The copper cubes are worth 1, the silver 5, and the gold 10.
 
-Example: If you produce 6 plants, place 1 copper cube and 1 silver cube into the green resource section to the right of the plant production track on your player board.
+*Example: If you produce 6 plants, place 1 copper cube and 1 silver cube into the green resource section to the right of the plant production track on your player board.*
 
-4. CAPABILITIES - When you gain (a.) steel or (b.) titanium capabilities, move the corresponding cube on its track. Add a second cube to the right column if needed.
+4. **CAPABILITIES** - When you gain (a.) steel or (b.) titanium capabilities, move the corresponding cube on its track. Add a second cube to the right column if needed.
 
-5. STANDARD ACTIONS - During the action phase, players may perform as many of these actions as they want, any number of times.
+5. **STANDARD ACTIONS** - During the action phase, players may perform as many of these actions as they want, any number of times.
 
-Reminder: All resources are either tracked on the player board or on a card if it is a special resource. Use the copper, silver, and gold cubes to track the number of each resource you have. The copper cubes are worth 1, the silver 5, and the gold 10.
+*Reminder: All resources are either tracked on the player board or on a card if it is a special resource. Use the copper, silver, and gold cubes to track the number of each resource you have. The copper cubes are worth 1, the silver 5, and the gold 10.*
 
-Note: Some production cards increase their production when you have more of a specific tag. You'll need to update your player mat every time you play that tag.
+*Note: Some production cards increase their production when you have more of a specific tag. You'll need to update your player mat every time you play that tag.*
 
-Note: You will always be able to calculate your current production and capabilities by looking at your cards in play. The player board is just more convenient. 
+*Note: You will always be able to calculate your current production and capabilities by looking at your cards in play. The player board is just more convenient.* 
 
 ## RESOURCES (page 7)
 
 There are four different kinds of resources in **Terraforming Mars: Ares Expedition**: mega credits, heat, plants, and special resources.
+
+> Image of a big board with player boards and the 13 cubes in their player colour with a board of mega credits, a board of heat, a board of plants, with a line moving from the standard actions to
+- play green
+- play blue or red
+- actions
+- produce
+- draw
+and back to the standard actions
 
 > Image of a golden card with a letter C crested on it
 
@@ -127,15 +143,15 @@ There are four different kinds of resources in **Terraforming Mars: Ares Expedit
 
 **FOREST VP TOKENS** - Awarded when a forest is built. Worth 1 VP at the end of the game. There are 5 VP forest tokens in case you run out of 1's.
 
-> Image of a forest in the shape of a hexagon
+> Image of a forest in the shape of hexagon
 
 **PHASE TRACKING TOKENS** - Show which phases were selected by all players during the round.
 
-> Image of a field with a white one 
+> Image of a card with a white one and a selected phase 
 
 **OCEAN TILES** - During setup, place these on the board with the orange side faceup. When you flip an ocean over to the blue side, you will receive the benefit shown on that side. For example, if you flip the tile shown to the left, you gain 2 plants. Once an ocean tile is blue side up, it cannot be flipped over again.
 
-> Image of an ocean in the shape of a hexagon
+> Image of an ocean in a hexagon shape
 
 ## SETUP (page 8)
 
@@ -151,19 +167,32 @@ There are four different kinds of resources in **Terraforming Mars: Ares Expedit
 
 6. Shuffle the ocean tiles blue side down and place them on the nine ocean spaces on the board.
 
-7. **For your first game** instead of performing step 7, find the sixteen green project cards that have a ( white star) next to the card number. Shuffle them and deal each player four of those cards. Place any remaining cards with a (white star) in the discard pile. The rest of the project cards are already shuffled. Feel free to cut the deck, then deal four more cards to each player.
+7. ***For your first game** instead of performing step 7, find the sixteen green project cards that have a ( white star) next to the card number. Shuffle them and deal each player four of those cards. Place any remaining cards with a (white star) in the discard pile. The rest of the project cards are already shuffled. Feel free to cut the deck, then deal four more cards to each player.*
+
+> Image of a green project card with a white star next to its card number (first game).
+> Image of shuffled cards facedown 
+> Image of dealt cards 
 
 Shuffle all of the project cards together facedown to form the project card deck. Deal each player eight project cards. You will keep all of them. Split the deck into two piles so that all players can easily reach one of the decks.
 
-8. **For your first game**, instead of performing step 8, deal each player one of the corporation cards with a (black star) next to its card number.
+8. ***For your first game**, instead of performing step 8, deal each player one of the corporation cards with a (black star) next to its card number.*
 
 Shuffle all of the corporation cards facedown and deal each player two corporation cards. Each player picks one to use for the game and discards the other. Return all unused corporation cards to the box.
 
-**Advanced Rule**: Once you have been dealt your corporations, but before you have chosen which one you want to use, you may discard any number of project cards and draw that same amount. 
+> Image of a corporation card with a black star next to its card number (first game)
+> Image of shuffled cards facedown
+> Image of the two dealt cards yellow downward arrow to one dealt card to be used for the game
+
+***Advanced Rule**: Once you have been dealt your corporations, but before you have chosen which one you want to use, you may discard any number of project cards and draw that same amount.* 
 
 9. Each player receives any starting resources and abilities from their corporation.
 
+> Image of a card with starting resources and effect
+> Image of three copper cubes, one silver and two golden cubes
+
 10. Give each player a set of five phase cards corresponding to their player color.
+
+> Image of five phase cards with individual colour
 
 11. Start the game.
 
@@ -187,6 +216,10 @@ Starting with the second round, players will place this card at a 90° angle on 
 
 Once all players have done this, the chosen phase cards are revealed. These cards determine which phases are resolved this round. For each phase that was chosen for this round, flip the associated phase tracking token faceup so that the name of the phase is showing.
 
+> Image of a phase card placed at a 90 degree angle on top of the last card they choose and a yellow arrow pointing sideways to an image of a revealed phase card
+
+*A player is not allowed to pick the same phase two rounds in a row*
+
 ### B. RESOLVE PHASES STEP (page 11)
 
 During this step, players resolve the phases that were chosen during the planning step. The chosen phases are always resolved in the following order:
@@ -207,23 +240,29 @@ If multiple players choose the same phase, that phase is resolved only once. If 
 
 When you choose a phrase, you will receive the specific bonus in that phrase that is listed at the bottom of the phrase card.
 
+> Image of a bonus phase card with gain 4 MC in a yellow circle
+
 #### I DEVELOPMENT PHASE: (page 11)
 
 During this phase, each player may play one green project card from their hand by paying its cost. See Playing Project Cards on page 12. ***Bonus: If you chose this phase, the cost of the card you play this phase is reduced by 3 MC***.
 
-After playing a green card, make sure to adjust the corresponding capability or production track on your player board.
+> Image of a green development card stating Each player may play one green project card and Pay 3MC less for the card you play this phase.
 
-Reminder: Players may discard project cards in hand at any time to gain 3 MC. This can be done for any reason. Whenever a player discards a card for any reason, it is discarded facedown to the project card discard pile.
+*After playing a green card, make sure to adjust the corresponding capability or production track on your player board.*
+
+*Reminder: Players may discard project cards in hand at any time to gain 3 MC. This can be done for any reason. Whenever a player discards a card for any reason, it is discarded facedown to the project card discard pile.*
 
 #### II CONSTRUCTION PHASE: (page 12)
 
 During this phase, each player may play one blue or one red project card from their hand by paying its cost. ***Bonus: If you chose this phase, you can either: Draw a card before or after playing a card this phase OR you may play an additional blue or red card this phase.***
 
-**Tip to save table space**: Play green cards along the bottom of your player board on the right side. You can overlap them so that just the production box and tags along the left side are showing. 
+> Image of a red or blue costruction card stating Each player may play one blue or one red card and Draw a card or Play an additional blue card or red card this phase.
 
-Play blue cards in a row above your green cards. You can overlap them so that just the ability icons and tags along the left side are showing. 
+***Tip to save table space**: Play green cards along the bottom of your player board on the right side. You can overlap them so that just the production box and tags along the left side are showing.* 
 
-Play red cards in either row, you can overlap them so just the tags are showing.
+*Play blue cards in a row above your green cards. You can overlap them so that just the ability icons and tags along the left side are showing.* 
+
+*Play red cards in either row, you can overlap them so just the tags are showing.*
 
 #### PLAYING PROJECT CARDS (page 12)
 
@@ -231,39 +270,61 @@ The cost to play a project card must be paid with MC. You can use MC cubes you h
 
 ##### REQUIREMENTS (page 12)
 
-Some cards have additional requirements in order to play them. Cards with requirements have a checkmark icon (> Image of a checkmark icon) next to the cost of the card. These requirements are listed in the text box at the bottom of the card next to the same checkmark icon (> Image of a checkmark icon) and shown in icons at the top. If a card has an ocean, oxygen or temperature requirement, that requirement needs to have been met **at the start of the phase** in order for you to be able to play it. _If the requirements of a card are not met, you cannot play that card._
+Some cards have additional requirements in order to play them. Cards with requirements have a checkmark icon (an icon of a checkmark) next to the cost of the card. These requirements are listed in the text box at the bottom of the card next to the same checkmark icon (an icon of a checkmark) and shown in icons at the top. If a card has an ocean, oxygen or temperature requirement, that requirement needs to have been met **at the start of the phase** in order for you to be able to play it. *If the requirements of a card are not met, you cannot play that card.*
 
 ##### STEEL AND TITANIUM (page 12)
 
-The cost of Project cards with a building tag (> Image of a building tag), regardless of color, is reduced by 2 MC for each steel (> Image of steel) you have.
+The cost of Project cards with a building tag (an icon of a building tag), regardless of color, is reduced by 2 MC for each steel (an image of steel) you have.
 
-The cost of Project cards with a space tag (> Image of a space tag), regardless of color, is reduced by 3 MC for each titanium (> Image of titanium) you have.
+The cost of Project cards with a space tag (an icon of a space tag), regardless of color, is reduced by 3 MC for each titanium (an image of titanium) you have.
 
 The cost to play a card cannot be reduced below zero.
 
 You may play cards that raise parameters beyond their maximums or add special resources when you don't have a card to add them to. You will simply not receive the benefits of those effects.
 
-***Example***: *Bob wants to play Microprocessors, which is a green card that costs 17 MC. Microprocessors has a building tag (> Image of a building tag). 1 Bob has two steel, so his cost to play cards with building tags is reduced by 4 MC. 2 Bob chose the development phase this turn, so his cost to play this green card is reduced by 3 MC. Thus, Bob's cost to play Microprocessors is 17-4-3=10.*
+(page 13)
 
-*3 Bob has 4 MC cubes which he can use to pay for the card, but that leaves Bob 6 MC short of playing it. Bob can discard two project cards from his hand at a rate of 3 MC each to pay for the remaining 6 MC. 4 Bob chooses to discard two cards and spends his 4 MC cubes, and places Microprocessors into play.*
+***Example***: *Bob wants to play Microprocessors, which is a green card that costs 17 MC. Microprocessors has a building tag (an icon of a building tag). (an icon of number 1) Bob has two steel, so his cost to play cards with building tags is reduced by 4 MC. (an icon of number 2) Bob chose the development phase this turn, so his cost to play this green card is reduced by 3 MC. Thus, Bob's cost to play Microprocessors is 17-4-3=10.*
 
-*5 Bob resolves the immediate effect of the card which is "Draw two cards. Then, discard a card." Finally, Bob is done with the development phase.*
+*(an icon of number 3) Bob has 4 MC cubes which he can use to pay for the card, but that leaves Bob 6 MC short of playing it. Bob can discard two project cards from his hand at a rate of 3 MC each to pay for the remaining 6 MC. (an icon of number 4) Bob chooses to discard two cards and spends his 4 MC cubes, and places Microprocessors into play.*
+
+*(an icon of number 5) Bob resolves the immediate effect of the card which is "Draw two cards. Then, discard a card." Finally, Bob is done with the development phase.*
+
+> Image of a green card called microprocessor
+
+> Image of a card with two steel and another card with development phase
+
+> Image of two discarded card with one overlapping the other and a white palm above them
+
+> Image of four copper cubes plus an image of two project cards side by side with a white palm above them 
 
 #### III ACTION PHASE: (page 14)
 
 Each player may resolve the "Action:" ability on each of their cards in play once during this phase. Each player may resolve any number of the standard actions any number of times. ***Bonus: If you chose this phase, you may resolve the "Action:" ability on one of your cards in play an additional time.***
 
+> Image of an action card stating Each player activates any "Action:" effects and Standard Actions You may activate one "Action:" an additional time.
+
 ##### STANDARD ACTONS (page 14)
 
 During the action phase, players may use the standard actions printed on their player boards. Those actions are:
 
+> image of eight plant card right arrow pointing at forest vp
+
 - Spend 8 plants to gain a forest VP and raise the oxygen one step.
+
+> Image of number 20 on a yellow card right arrow pointing at an image of a tree in a green pentagon 
 
 - Spend 20 MC to gain a forest VP and raise the oxygen one step.
 
+> Image of eight heat card right arrow pointing at an image of a thermometer
+
 - Spend 8 heat to raise the temperature one step.
 
+> Image of number 14 on a yellow card right arrow pointing at an image of a thermometer
+
 - Spend 14 MC to raise the temperature one step.
+
+> Image of number 15 on a yellow card right arrow pointing at an image of an ocean tile
 
 - Spend 15 MC to flip an ocean tile. When a player flips an ocean tile, they immediately receive the reward shown on the back of the tile.
 
@@ -281,6 +342,10 @@ Important Rule: At the end of the action phase, if you are able to spend heat or
 
 During this phase, each player collects resources equal to the production on their green cards, corporation card, and place on the TR track. ***Bonus: If you chose this phase, gain 4 MC.***
 
+> Image of a production card stating Each player gains heats, plants, and draws cards according to their production. They also gain MC equal to their production + TR. and Gain 4 MC
+
+> Image of a copper, silver and gold cube and a production phase card 
+
 Gain MC equal to your MC production + your TR. Gain heat and plants equal to your production for those resources. Place copper (1), silver (5), and gold (10) cubes to track these resources in the appropriate resource section of your player board. For each card production, you draw a card during this phase.
 
 Example: Bob has played four cards, shown below, so far this game. When he played these cards, he adjusted his player board accordingly. During the planning step of this round, he chose to play the production phase. During the production phase, Bob will gain all of the resources shown on his player board plus MC equal to his TR, which he can verify by checking the production boxes on the cards he has played. He gains the following:
@@ -295,11 +360,16 @@ Example: Bob has played four cards, shown below, so far this game. When he playe
 
 5. 4 MC as a bonus for choosing the production phase.
 
+> Image of a big board with player boards adjusted to play production phase
+
 #### V RESEARCH PHASE: (page 15)
 
 Each player draws two cards, keeps one, and discards the other. ***Bonus: If you chose this phase, you draw three additional cards and keep one additional card. Meaning, in total, you draw five cards and keep two, discarding the other three.***
 
 If at any point, a player needs to draw a project card and the project card deck is empty, shuffle all of the discarded project cards together to form a new project card deck.
+
+> > Image of a yellow research card stating All players draw play two cards and keep it and Draw an additional three cards and keep one additional card.
+
 
 ### C. END STEP (page 16)
 
@@ -344,6 +414,8 @@ He has four project cards with VP on them, for a total of 9 VP.
 He also has a project card with variable VP worth 1 VP per 2 animals on the card. Bob added 6 animals (resource cubes) to this card over the course of the game, so it is worth 3VP. 
 
 Bob's final score is 25+6+9+3=43.
+
+> Image of TR track with a blue cube at 25, two forest VP with one have a five written on it, four project cards with one, two, three, and four on them respectively, and a project card stating 1 VP per 2 animals on this card and effect. 
 
 ## SYMBOLS (page 17)
 
