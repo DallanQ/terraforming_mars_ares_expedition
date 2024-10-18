@@ -1,21 +1,47 @@
+## Overview (page 2)
+
+**Terraforming Mars: Ares Expedition** is an engine-building game in which players control
+interplanetary corporations with the goal of making Mars habitable (and profitable). You will do
+this by investing **mega credits (MC)** into project cards that will directly or indirectly contribute
+to the terraforming process. In order to win, you will want to accumulate a high **terraform rating (TR)**
+and as many **victory points (VP)** as you can. Players raise their TR by increasing global
+parameters: **oceans, oxygen, and temperature**. TR also determines each corporation’s basic
+income, and, at the end of the game TR counts as VP. Additional VP and production capabilities
+are awarded for building project cards and other actions taken during the game.
+
+The game is played in rounds, and each round the players will choose one of five phases, which
+determines which activities will take place during that round. This means every round is different,
+but can consist of building new project cards, taking general and project-specific actions,
+producing income and resources **(plants and heat)**, or researching to draw more project cards.
+Every player will take all the phases selected for the round, and will receive a special bonus during
+the phase that they selected. **To speed up the game, players should resolve each phase
+simultaneously!**
+
+The game board has tracks for oxygen, temperature, and terraform rating, as well as a place
+for all of the ocean tiles that will be flipped over the course of the game. The game ends when
+there is enough oxygen to breathe (14%), oceans enough to allow Earth-like weather (9), and the
+temperature is well above freezing (+8°C). It will then be possible, if not comfortable, to live on the
+surface of Mars!
+
+The winner is the player with the most VP at the end of the game.
 
 ## Game Board (page 4)
 
 The game board has four sections:
 
-1. TERRAFORMING RATING TRACK - When you gain TR, you advance your player cube on this track.
+1. **TERRAFORMING RATING TRACK** - When you gain TR, you advance your player cube on this track.
 
-2. OCEANS - This is where the ocean tokens are placed facedown at the start of the game. When you flip an ocean, pick an ocean that has the orange side faceup and flip it over, then gain 1 TR and the reward listed on the back of the flipped ocean tile.
+2. **OCEANS** - This is where the ocean tokens are placed facedown at the start of the game. When you flip an ocean, pick an ocean that has the orange side faceup and flip it over, then gain 1 TR and the reward listed on the back of the flipped ocean tile.
 
-3. PHASE TRACKING TOKENS - Place the phase tracking tokens along this side of the board.
+3. **PHASE TRACKING TOKENS** - Place the phase tracking tokens along this side of the board.
 
-4. OXYGEN TRACK - When you raise the oxygen, advance the cube on this track and gain 1 TR.
+4. **OXYGEN TRACK** - When you raise the oxygen, advance the cube on this track and gain 1 TR.
 
-5. TEMPERATURE TRACK - When you raise the temperature, advance the cube on this track and gain 1 TR.
+5. **TEMPERATURE TRACK** - When you raise the temperature, advance the cube on this track and gain 1 TR.
 
 The oxygen and temperature tracks are each divided into four colors: purple, red, yellow, and white. Certain cards will require the oxygen or temperature to be in certain color zones.
 
->  image of a board with the terraforming rating track along the top, the oceans in the middle, the phase tracking tokens on the far right, the oxygen track to the right of the oceans, and the temperature track to the left of the oceans.
+> image of a board with the terraforming rating track along the top, the oceans in the middle, the phase tracking tokens on the far right, the oxygen track to the right of the oceans, and the temperature track to the left of the oceans.
 
 ## CARD ANATOMY (page 5)
 
@@ -23,7 +49,7 @@ The oxygen and temperature tracks are each divided into four colors: purple, red
 
 Project cards are the backbone to building a powerful corporation in order to win the game. It is important to note that at any time you may discard a project card in your hand to gain 3 MC. Project cards have the following pieces of information on them:
 
-> > image of cards with the name at the top, the cost in the upper-left corner, the requirement below the cost on the left, the tags down the left side, the color on the left, the effect, production, capability and action at the bottom left, the ability at the bottom right, the vp down the right side and the card number underneath the ability.
+> image of cards with the name at the top, the cost in the upper-left corner, the requirement below the cost on the left, the tags down the left side, the color on the left, the effect, production, capability and action at the bottom left, the ability at the bottom right, the vp down the right side and the card number underneath the ability.
 
 1. **NAME**
   
@@ -105,6 +131,8 @@ The player board keeps track of your current resources and production. Resource 
 
 5. **STANDARD ACTIONS** - During the action phase, players may perform as many of these actions as they want, any number of times.
 
+> Image of a player board with the phases along the top, production tracks on the left, resources on the right, capabilities near the bottom, and standard actions at the bottom.
+
 *Reminder: All resources are either tracked on the player board or on a card if it is a special resource. Use the copper, silver, and gold cubes to track the number of each resource you have. The copper cubes are worth 1, the silver 5, and the gold 10.*
 
 *Note: Some production cards increase their production when you have more of a specific tag. You'll need to update your player mat every time you play that tag.*
@@ -115,41 +143,47 @@ The player board keeps track of your current resources and production. Resource 
 
 There are four different kinds of resources in **Terraforming Mars: Ares Expedition**: mega credits, heat, plants, and special resources.
 
-> Image of a big board with player boards and the 13 cubes in their player colour with a board of mega credits, a board of heat, a board of plants, with a line moving from the standard actions to
-- play green
-- play blue or red
-- actions
-- produce
-- draw
-and back to the standard actions
-
 > Image of a golden card with a letter C crested on it
 
-**MEGA CREDITS (MC)** - MC is used to play cards and activate actions.
+### MEGA CREDITS (MC) (page 7)
+
+MC is used to play cards and activate actions.
 
 > Image of a red card with three thunderbolts crested on it
 
-**HEAT** - Heat is used to raise the temperature of Mars. During the action phase, players may spend 8 heat to raise the temperature one step and gain 1 TR.
+### HEAT (page 7)
+
+Heat is used to raise the temperature of Mars. During the action phase, players may spend 8 heat to raise the temperature one step and gain 1 TR.
 
 > Image of a green card with a leaf crested on it
 
-**PLANTS** - Plants are used to make forests, which raise the oxygen on Mars. During the action phase, players may spend 8 plants to gain a forest VP, raise the oxygen one step, and gain 1 TR.
+### PLANTS (page 7)
+
+Plants are used to make forests, which raise the oxygen on Mars. During the action phase, players may spend 8 plants to gain a forest VP, raise the oxygen one step, and gain 1 TR.
 
 > Image of a green card with a paw crested on it, Image of a microbe, and an image of a white card with an atom crested on it. 
 
-**SPECIAL RESOURCES** - Some cards allow you to place special resources (**animals**, **microbes**, and **science**) on that or other cards. These resources do different things, as specified by the different cards.
+### SPECIAL RESOURCES (page 7)
+
+Some cards allow you to place special resources (**animals**, **microbes**, and **science**) on that or other cards. These resources do different things, as specified by the different cards.
 
 ## Other Tokens (page 7)
 
-**FOREST VP TOKENS** - Awarded when a forest is built. Worth 1 VP at the end of the game. There are 5 VP forest tokens in case you run out of 1's.
+### FOREST VP TOKENS (page 7)
+
+Awarded when a forest is built. Worth 1 VP at the end of the game. There are 5 VP forest tokens in case you run out of 1's.
 
 > Image of a forest in the shape of hexagon
 
-**PHASE TRACKING TOKENS** - Show which phases were selected by all players during the round.
+### PHASE TRACKING TOKENS (page 7)
+
+Show which phases were selected by all players during the round.
 
 > Image of a card with a white one and a selected phase 
 
-**OCEAN TILES** - During setup, place these on the board with the orange side faceup. When you flip an ocean over to the blue side, you will receive the benefit shown on that side. For example, if you flip the tile shown to the left, you gain 2 plants. Once an ocean tile is blue side up, it cannot be flipped over again.
+### OCEAN TILES (page 7)
+
+During setup, place these on the board with the orange side faceup. When you flip an ocean over to the blue side, you will receive the benefit shown on that side. For example, if you flip the tile shown to the left, you gain 2 plants. Once an ocean tile is blue side up, it cannot be flipped over again.
 
 > Image of an ocean in a hexagon shape
 
@@ -167,21 +201,19 @@ and back to the standard actions
 
 6. Shuffle the ocean tiles blue side down and place them on the nine ocean spaces on the board.
 
-7. ***For your first game** instead of performing step 7, find the sixteen green project cards that have a ( white star) next to the card number. Shuffle them and deal each player four of those cards. Place any remaining cards with a (white star) in the discard pile. The rest of the project cards are already shuffled. Feel free to cut the deck, then deal four more cards to each player.*
+7. ***For your first game** instead of performing step 7, find the sixteen green project cards that have a ( white star) next to the card number. Shuffle them and deal each player four of those cards. Place any remaining cards with a (icon of a white star) in the discard pile. The rest of the project cards are already shuffled. Feel free to cut the deck, then deal four more cards to each player.*
 
+> Image of shuffled cards facedown being dealt
 > Image of a green project card with a white star next to its card number (first game).
-> Image of shuffled cards facedown 
-> Image of dealt cards 
 
 Shuffle all of the project cards together facedown to form the project card deck. Deal each player eight project cards. You will keep all of them. Split the deck into two piles so that all players can easily reach one of the decks.
 
-8. ***For your first game**, instead of performing step 8, deal each player one of the corporation cards with a (black star) next to its card number.*
+8. ***For your first game**, instead of performing step 8, deal each player one of the corporation cards with a (icon of a black star) next to its card number.*
 
 Shuffle all of the corporation cards facedown and deal each player two corporation cards. Each player picks one to use for the game and discards the other. Return all unused corporation cards to the box.
 
-> Image of a corporation card with a black star next to its card number (first game)
-> Image of shuffled cards facedown
 > Image of the two dealt cards yellow downward arrow to one dealt card to be used for the game
+> Image of a corporation card with a black star next to its card number (first game)
 
 ***Advanced Rule**: Once you have been dealt your corporations, but before you have chosen which one you want to use, you may discard any number of project cards and draw that same amount.* 
 
@@ -224,15 +256,15 @@ Once all players have done this, the chosen phase cards are revealed. These card
 
 During this step, players resolve the phases that were chosen during the planning step. The chosen phases are always resolved in the following order:
 
-- DEVELOPMENT PHASE *(pg. 11)*
+- I. DEVELOPMENT PHASE *(pg. 11)*
 
-- CONSTRUCTION PHASE *(pg. 12)*
+- II. CONSTRUCTION PHASE *(pg. 12)*
 
-- ACTION PHASE *(pg. 14)*
+- III. ACTION PHASE *(pg. 14)*
 
-- PRODUCTION PHASE *(pg. 15)*
+- IV. PRODUCTION PHASE *(pg. 15)*
 
-- RESEARCH PHASE *(pg. 15)*
+- V. RESEARCH PHASE *(pg. 15)*
 
 Each player resolves each of the chosen phases (and only the chosen phases) once in this round. Players resolve each other chosen phase simultaneously. Once all players have finished with a phase, they all move onto the next chosen phase.
 
@@ -264,15 +296,15 @@ During this phase, each player may play one blue or one red project card from th
 
 *Play red cards in either row, you can overlap them so just the tags are showing.*
 
-#### PLAYING PROJECT CARDS (page 12)
+##### PLAYING PROJECT CARDS (page 12)
 
 The cost to play a project card must be paid with MC. You can use MC cubes you have and/or discard other project cards in your hand at a rate of 3 MC per card. Any overpayment in cards is returned to you using cubes. (***Ex. You can play an 8 MC card by discarding two cards and paying 2 MC, or by discarding three cards in hand. If you discard the three cards, you will receive 1 MC back.***)
 
-##### REQUIREMENTS (page 12)
+###### REQUIREMENTS (page 12)
 
 Some cards have additional requirements in order to play them. Cards with requirements have a checkmark icon (an icon of a checkmark) next to the cost of the card. These requirements are listed in the text box at the bottom of the card next to the same checkmark icon (an icon of a checkmark) and shown in icons at the top. If a card has an ocean, oxygen or temperature requirement, that requirement needs to have been met **at the start of the phase** in order for you to be able to play it. *If the requirements of a card are not met, you cannot play that card.*
 
-##### STEEL AND TITANIUM (page 12)
+###### STEEL AND TITANIUM (page 12)
 
 The cost of Project cards with a building tag (an icon of a building tag), regardless of color, is reduced by 2 MC for each steel (an image of steel) you have.
 
@@ -281,8 +313,6 @@ The cost of Project cards with a space tag (an icon of a space tag), regardless 
 The cost to play a card cannot be reduced below zero.
 
 You may play cards that raise parameters beyond their maximums or add special resources when you don't have a card to add them to. You will simply not receive the benefits of those effects.
-
-(page 13)
 
 ***Example***: *Bob wants to play Microprocessors, which is a green card that costs 17 MC. Microprocessors has a building tag (an icon of a building tag). (an icon of number 1) Bob has two steel, so his cost to play cards with building tags is reduced by 4 MC. (an icon of number 2) Bob chose the development phase this turn, so his cost to play this green card is reduced by 3 MC. Thus, Bob's cost to play Microprocessors is 17-4-3=10.*
 
@@ -368,7 +398,7 @@ Each player draws two cards, keeps one, and discards the other. ***Bonus: If you
 
 If at any point, a player needs to draw a project card and the project card deck is empty, shuffle all of the discarded project cards together to form a new project card deck.
 
-> > Image of a yellow research card stating All players draw play two cards and keep it and Draw an additional three cards and keep one additional card.
+> Image of a yellow research card stating All players draw play two cards and keep it and Draw an additional three cards and keep one additional card.
 
 
 ### C. END STEP (page 16)
@@ -403,7 +433,7 @@ Players score VP for the following things
 
 The player with the highest total VP wins the game. In the event of a tie, the tied player with the most heat, MC, and plant resources added together is the winner. Be sure to convert project cards in hand to MC beforehand.
 
-Example: At the end of the game, Bob totals his final score: 
+***Example:*** At the end of the game, Bob totals his final score: 
 
 He has 25 TR as shown on the TR track. 
 
@@ -423,111 +453,153 @@ All abilities and requirements on project cards are shown both with symbols and 
 
 ### VICTORY POINTS AND TERRAFORMING RATING (page 17)
 
+#### VICTORY POINTS (VP) (page 17)
+
 > image of a brown circle with a 1 inside
 
 > image of a brown circle with an asterisk inside 
 
-#### **VICTORY POINTS (VP)** - Points that will add to your score at the end of the game. Some cards have either a set number of VP on them, or a number contingent on another factor (such as resources on the card or certain cards in play). You win the game by having the most VP. *Taking the time to terraform in a sustainable, environmentally conscious way, create impressive structures, and bring beautiful creatures to our new planet, will ultimately be rewarded.*
+Points that will add to your score at the end of the game. Some cards have either a set number of VP on them, or a number contingent on another factor (such as resources on the card or certain cards in play). You win the game by having the most VP. *Taking the time to terraform in a sustainable, environmentally conscious way, create impressive structures, and bring beautiful creatures to our new planet, will ultimately be rewarded.*
 
-> image of a 
+#### TERRAFORM RATING (TR) (page 17)
 
-#### TERRAFORM RATING (TR) - Points that will both produce MC throughout the game and add to your score at the end of the game. TR is the measure of how much you have contributed to the terraforming process. Each time you raise the temperature, the oxygen level, or flip an ocean tile, your TR increases. *Every step towards terraforming is its own reward, but as an added bonus, there are also government stipends in return for your hard work making Mars habitable.*
+Points that will both produce MC throughout the game and add to your score at the end of the game. TR is the measure of how much you have contributed to the terraforming process. Each time you raise the temperature, the oxygen level, or flip an ocean tile, your TR increases. *Every step towards terraforming is its own reward, but as an added bonus, there are also government stipends in return for your hard work making Mars habitable.*
 
 ### PARAMETERS (page 17)
 
 There are three parameters that gauge how much Mars has been terraformed: temperature, oxygen, and oceans. You and your fellow players are competing to contribute the most to the terraforming of Mars. Each of these symbols indicates raising the associated parameter one time. Each time you raise one of these parameters, you will gain 1 TR. *Every aspect of preparing our new home is equally important. Only when our atmosphere and ocean levels are perfectly maintained can we begin to bring over our citizens.*
 
+#### TEMPERATURE (page 17)
+
 > Image of a thermometer
 
-#### TEMPERATURE - Raise the temperature by 2˚C. Heat, MC, or effects on cards can be used to increase the temperature. The temperature starts at -30˚C and can be raised 2˚C at a time up to +8˚C. This will create an equatorial zone where water stays liquid.
+Raise the temperature by 2˚C. Heat, MC, or effects on cards can be used to increase the temperature. The temperature starts at -30˚C and can be raised 2˚C at a time up to +8˚C. This will create an equatorial zone where water stays liquid.
+
+#### OXYGEN (page 17)
 
 > Image of two molecules on a plate
 
-#### OXYGEN - Raise the oxygen by 1%. Plants, MC, or effects on cards can be used to raise the oxygen level. The oxygen starts at 0% and can be raised 1% at a time up to 14%. At 14% the atmosphere resembles that of Earth at a 3000m elevation.
+Raise the oxygen by 1%. Plants, MC, or effects on cards can be used to raise the oxygen level. The oxygen starts at 0% and can be raised 1% at a time up to 14%. At 14% the atmosphere resembles that of Earth at a 3000m elevation.
+
+#### OCEANS (page 17)
 
 > Image of water in hexagon shape
 
-#### OCEANS - Flip one ocean tile. MC or effects on cards can be used to flip ocean tiles. Each ocean tile represents 1% ocean coverage. The ocean coverage starts at 0% and can be raised 1% at a time to 9% (or, 9 ocean tiles). With 9% of the surface covered by oceans, Mars will have a hydrological cycle, creating rain and rivers.
+Flip one ocean tile. MC or effects on cards can be used to flip ocean tiles. Each ocean tile represents 1% ocean coverage. The ocean coverage starts at 0% and can be raised 1% at a time to 9% (or, 9 ocean tiles). With 9% of the surface covered by oceans, Mars will have a hydrological cycle, creating rain and rivers.
 
 ### RESOURCES (page 17)
 
 There are four types of resources that can be used in your corporation's work to terraform Mars: MC, plants, heat, and special resources (animals, microbes, and science).
 
->Image of a golden card with a letter C crested on it
+#### MEGA CREDITS (MC) (page 17)
 
-**MEGA CREDITS (MC)** - This is the currency used in the 24th century and is how your corporation will pay to complete projects and take certain actions.
+> Image of a golden card with a letter C crested on it
+
+This is the currency used in the 24th century and is how your corporation will pay to complete projects and take certain actions.
+
+#### PLANTS (page 17)
 
 > Image of a green card with a leaf crested on it
 
-**PLANTS** - Plants represent the hard work your corporation is putting in to increase the forest coverage on Mars. Plants are a resource you can use to build forests and raise the oxygen.
+Plants represent the hard work your corporation is putting in to increase the forest coverage on Mars. Plants are a resource you can use to build forests and raise the oxygen.
+
+#### HEAT (page 17)
 
 > Image of a red card with three thunderbolts crested on it
 
-**HEAT** - Heat represents your corporation's efforts to make the temperature of Mars habitable. Heat is a resource you can use to raise the temperature 2˚C.
+Heat represents your corporation's efforts to make the temperature of Mars habitable. Heat is a resource you can use to raise the temperature 2˚C.
+
+#### SPECIAL RESOURCES (page 17)
 
 > Image of a green card with a paw crested on it, Image of a light green card with two sticks adjacent to each other and a ball in between, and an image of a white card with an atom crested on it.
 
-**SPECIAL RESOURCES** - Your corporation can invest itself in the animals, the microbes, or the science resources of humanity's future home. These three special resources are collected on project cards to be used for specific effects.
+Your corporation can invest itself in the animals, the microbes, or the science resources of humanity's future home. These three special resources are collected on project cards to be used for specific effects.
 
-## CAPABILITIES - STEEL AND TITANIUM (page 18)
+### CAPABILITIES - STEEL AND TITANIUM (page 18)
 
 Some green cards give a player steel and titanium capabilities. They reduce the cost of playing project cards. The proper building materials are essential when starting an expensive project!
 
+#### STEEL (page 18)
+
 > Image of a brown card with a hammer and screw on it
 
-**STEEL** - This represents building materials used on Mars. Each steel capability lowers the cost of playing project cards with a building tag (image of a building tag) By 2 Mc.
+This represents building materials used on Mars. Each steel capability lowers the cost of playing project cards with a building tag (image of a building tag) By 2 Mc.
+
+#### TITANIUM (page 18)
 
 > Image of a black card with a golden star on it
 
-**TITANIUM** - This represents building materials used in space. Each titanium capability lowers the cost of playing project cards with a space tag (image of a space tag) By 3 Mc.
+This represents building materials used in space. Each titanium capability lowers the cost of playing project cards with a space tag (image of a space tag) By 3 Mc.
 
-## TAGS (page 18)
+### TAGS (page 18)
 
 Project cards can have up to three tags on them, which can be referenced by some cards' effects.
 
+#### BUILDING (page 18)
+
 > Image of a brown circle with a building on it
 
-**BUILDING**: This project involves construction on Mars, and can be cheaper to produce using steel.
+This project involves construction on Mars, and can be cheaper to produce using steel.
+
+#### SPACE (page 18)
 
 > Image of a black circle with a shining star
 
-**SPACE**: This project uses space technology, and can be cheaper to produce using titanium.
+This project uses space technology, and can be cheaper to produce using titanium.
+
+#### POWER (page 18)
 
 > Image of a purple circle with a thunderbolt on it
 
-**POWER**: This project involves the creation of energy, and the conversion of energy into other resources.
+This project involves the creation of energy, and the conversion of energy into other resources.
+
+#### SCIENCE (page 18)
 
 > Image of a white circle with an atom on it
 
-**SCIENCE**: This project helps invent new, cutting edge technology to streamline the terraforming process.
+This project helps invent new, cutting edge technology to streamline the terraforming process.
+
+#### JOVIAN (page 18)
 
 > Image of jupiter
 
-**JOVIAN**: Jovian means 'having to do with Jupiter.' This project represents infrastructure in the outer solar system.
+Jovian means 'having to do with Jupiter.' This project represents infrastructure in the outer solar system.
 
-? Image of earth
+#### EARTH (pabe 18)
 
-**EARTH**: This project is related to activities on Earth.
+> Image of earth
+
+This project is related to activities on Earth.
+
+#### PLANT (page 18)
 
 > Image of a green circle with a leaf on it
 
-**PLANT**: This project involves plant life or other photosynthesizing organisms.
+This project involves plant life or other photosynthesizing organisms.
+
+#### MICROBE (page 18)
 
 > Image of a microbe
 
-**MICROBE**: This project involves introducing various kinds of microbes into the Martian ecosystem.
+This project involves introducing various kinds of microbes into the Martian ecosystem.
+
+#### ANIMAL (page 18)
 
 > Image of a green circle with a paw
 
-**ANIMAL**: This project involves introducing various kinds of animals into the Martian ecosystem. These cards generate VP.
+This project involves introducing various kinds of animals into the Martian ecosystem. These cards generate VP.
+
+#### EVENT (page 18)
 
 > Image of a yellow circle with a downward arrow
 
-**EVENT**: This project is a one-time operation to permanently alter Mars. All events are red cards.
+This project is a one-time operation to permanently alter Mars. All events are red cards.
+
+#### ASTERISK (page 18)
 
 > Image of a white asterisk
 
-**ASTERISK**: When an icon has an asterisk (*) next to it, there is a special rule that you must read in the ability text on the card.
+When an icon has an asterisk (*) next to it, there is a special rule that you must read in the ability text on the card.
 
 ## TWO-PLAYER CO-OP MODE (page 18)
 
@@ -549,13 +621,13 @@ The game ends at the end of the round in which the last cube is taken from the p
 
 At the end of the game, if all of the terraforming parameters have been completed and the players have a total score of at least 80 VP, the players win! Otherwise, the players lose. Record your VP and try to beat your high score the next time you play.
 
-## SOLO RULES (page 11)
+## SOLO RULES (page 19)
 
 The goal of the solo game is to fully terraform Mars before time runs out.
 
 All the rules of the game are the same with the following exceptions:
 
-### SETUP
+### SETUP (page 19)
 
 1. Set aside an additional set of five phase cards as a dummy hand. Shuffle that set of cards facedown.
 
@@ -563,25 +635,27 @@ All the rules of the game are the same with the following exceptions:
 
 3. Choose a difficulty level: Novice, Advanced, or Expert.
 
-### GAMEPLAY
+### GAMEPLAY (page 19)
 
 Once you have selected a phase card during the beginning phase, play the top card of the dummy hand faceup. That phase is also played this round (without a bonus). Continue to play rounds, playing a card from the dummy hand each round.
 
 When all five dummy hand cards have been played, shuffle them all facedown to reform the dummy hand. Each time you reshuffle the dummy hand, advance the dummy player cube (that started on 1) to the next space on the TR track. Once that cube reaches 5, play five final rounds. You are allowed to pick the order in which the dummy hand phase cards are played in these final rounds. After all of the phase cards from that hand have been played (25 rounds in total), the game ends.
 
-**DIFFICULTY LEVELS**: Solo mode can be a great way to learn the game, but it is not easy to win if you aren't experienced with the game and its many strategies. If you aren't experienced, consider choosing one of the lower difficulty settings below. In a lower difficulty setting, the terraforming parameters will advance each time the dummy player's cube moves (4 times per game), to help you reach your terraforming goals. **Note - raising terraforming parameters in this manner does not provide TR nor Forest VP tokens.**
+#### DIFFICULTY LEVELS (page 19)
 
-**NOVICE MODE**: Increase oxygen or temperature 2 steps after advancing the dummy player's cube.
+Solo mode can be a great way to learn the game, but it is not easy to win if you aren't experienced with the game and its many strategies. If you aren't experienced, consider choosing one of the lower difficulty settings below. In a lower difficulty setting, the terraforming parameters will advance each time the dummy player's cube moves (4 times per game), to help you reach your terraforming goals. **Note - raising terraforming parameters in this manner does not provide TR nor Forest VP tokens.**
 
-**ADVANCED MODE**: Increase oxygen or temperature 1 step after advancing the dummy player's cube.
+- **NOVICE MODE**: Increase oxygen or temperature 2 steps after advancing the dummy player's cube.
 
-**EXPERT MODE**: No bonuses are given.
+- **ADVANCED MODE**: Increase oxygen or temperature 1 step after advancing the dummy player's cube.
+
+- **EXPERT MODE**: No bonuses are given.
 
 ### END OF GAME 
 
 Once five full dummy hands have been played (25 rounds), the game ends. If Mars is fully terraformed, you win. Otherwise, you lose. Finally, you score VP, attempting to achieve as high a score as possible.
 
-Did you see the two-player co-op rules on the previous page?
+*Did you see the two-player co-op rules on the previous page?*
 
 ## GAME OVERVIEW (page 20)
 
@@ -595,25 +669,11 @@ Each player simultaneously chooses a phase card from their hand and places it fa
 
 During this step, players resolve the phases that were chosen during the planning step. There are no turns, so each player plays each phase at the same time. All players may participate in the selected phases, but players only receive bonuses for the phase they selected. Bonuses are printed in the bottom section of the phase cards. The chosen phases are always resolved in the following order:
 
-I. DEVELOPMENT PHASE
-
-- Each player may play one green project card from their hand by paying its cost.
-
-II. CONSTRUCTION PHASE
-
-- Each player may play one blue or one red project card from their hand by paying its cost.
-
-III. ACTION PHASE
-
-- Each player may resolve the "Action:" ability on each of their blue cards in play once.
-
-IV. PRODUCTION PHASE
-
-- Each player collects MC equal to their TR and resources based on their green cards and their corporation card.
-
-V. RESEARCH PHASE
-
-- Each player draws two cards, keeps one, and discards the other.
+- **I. DEVELOPMENT PHASE** Each player may play one green project card from their hand by paying its cost.
+- **II. CONSTRUCTION PHASE** Each player may play one blue or one red project card from their hand by paying its cost.
+- **III. ACTION PHASE** - Each player may resolve the "Action:" ability on each of their blue cards in play once.
+- **IV. PRODUCTION PHASE** - Each player collects MC equal to their TR and resources based on their green cards and their corporation card.
+- **V. RESEARCH PHASE** - Each player draws two cards, keeps one, and discards the other.
 
 ## C. END STEP (page 20) 
 
