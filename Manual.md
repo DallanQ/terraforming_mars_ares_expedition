@@ -143,27 +143,27 @@ The player board keeps track of your current resources and production. Resource 
 
 There are four different kinds of resources in **Terraforming Mars: Ares Expedition**: mega credits, heat, plants, and special resources.
 
-> Image of a golden card with a letter C crested on it
-
 ### MEGA CREDITS (MC) (page 7)
+
+> Image of a golden card with a letter C crested on it
 
 MC is used to play cards and activate actions.
 
-> Image of a red card with three thunderbolts crested on it
-
 ### HEAT (page 7)
+
+> Image of a red card with three thunderbolts crested on it
 
 Heat is used to raise the temperature of Mars. During the action phase, players may spend 8 heat to raise the temperature one step and gain 1 TR.
 
-> Image of a green card with a leaf crested on it
-
 ### PLANTS (page 7)
+
+> Image of a green card with a leaf crested on it
 
 Plants are used to make forests, which raise the oxygen on Mars. During the action phase, players may spend 8 plants to gain a forest VP, raise the oxygen one step, and gain 1 TR.
 
-> Image of a green card with a paw crested on it, Image of a microbe, and an image of a white card with an atom crested on it. 
-
 ### SPECIAL RESOURCES (page 7)
+
+> Image of a green card with a paw crested on it, Image of a microbe, and an image of a white card with an atom crested on it. 
 
 Some cards allow you to place special resources (**animals**, **microbes**, and **science**) on that or other cards. These resources do different things, as specified by the different cards.
 
@@ -171,21 +171,21 @@ Some cards allow you to place special resources (**animals**, **microbes**, and 
 
 ### FOREST VP TOKENS (page 7)
 
-Awarded when a forest is built. Worth 1 VP at the end of the game. There are 5 VP forest tokens in case you run out of 1's.
-
 > Image of a forest in the shape of hexagon
+
+Awarded when a forest is built. Worth 1 VP at the end of the game. There are 5 VP forest tokens in case you run out of 1's.
 
 ### PHASE TRACKING TOKENS (page 7)
 
-Show which phases were selected by all players during the round.
-
 > Image of a card with a white one and a selected phase 
+
+Show which phases were selected by all players during the round.
 
 ### OCEAN TILES (page 7)
 
-During setup, place these on the board with the orange side faceup. When you flip an ocean over to the blue side, you will receive the benefit shown on that side. For example, if you flip the tile shown to the left, you gain 2 plants. Once an ocean tile is blue side up, it cannot be flipped over again.
-
 > Image of an ocean in a hexagon shape
+
+During setup, place these on the board with the orange side faceup. When you flip an ocean over to the blue side, you will receive the benefit shown on that side. For example, if you flip the tile shown to the left, you gain 2 plants. Once an ocean tile is blue side up, it cannot be flipped over again.
 
 ## SETUP (page 8)
 
