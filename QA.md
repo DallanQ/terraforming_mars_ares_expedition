@@ -1,16 +1,48 @@
 [solo-mode-identical-phase-selectiondraw](https://boardgamegeek.com/thread/2701856/solo-mode-identical-phase-selectiondraw)
 
+> If the same phase card that I selected emerges after drawing from the dummy hand, do I play the phase twice?
+
+No, you don't. You just play that phase once and you will have the action bonus for playing the card for it. It would just be like if you were playing with another player and both played the same action.
+
 [first-solo-play-a-few-clarifications](https://boardgamegeek.com/thread/2721839/first-solo-play-a-few-clarifications)
+
+> In Novice mode at what point do you raise the oxygen or temperature 2 steps when the AI uses all 5 phase cards? 
+
+You raise oxygen or temperature right after you move the tracker cube one spot up, after the round of the 5th card. This means: a) you fully play both phases you and the AI played, and once you start to prepare the next round (shuffle AI cards and move the tracker) you will raise one of the tracks; b) you will do this a total of 4 times (in novice means you do a total of 8 raises, 4x2)
+
+> In Novice mode do you have to raise either oxygen or temperature 2 steps and can’t raise each once instead?
+
+The rules specifically state that you can raise one or the other and not both.
+
+> The rules say the solo game ends when the AI has played its final phase card but does it actually mean at the end of that round? 
+
+Yes, at the end of the round.
 
 [exchanging-cards-for-mc](https://boardgamegeek.com/thread/2704875/exchanging-cards-for-mc)
 
 [mining-guild-card-214-inquiry](https://boardgamegeek.com/thread/2714723/mining-guild-card-214-inquiry)
 
+> The effect on the card reads, "Each time you play steel production..." How do folks interpret this card?
+
+"Whenever you build another green card which has steel production in the orange box". There is only one card in the game that requires steel production. It has a I because that is the only phase that will give you cards that will give you steel production.
+
 [phase-in-a-row](https://boardgamegeek.com/thread/2748840/phase-in-a-row)
+
+> Just say i played production in the last phase of one round, i go to end step and then start a new round. Can i play the production phase now as it is a new round…how do you guys play it for solo?
+
+You can't play production two phases in a roll.
 
 [basic-question-about-productionresource-tracking-f](https://boardgamegeek.com/thread/2850193/basic-question-about-productionresource-tracking-f)
 
+> The MC cubes on the right side of the board should correspond to the number on the left track? (This also appears to be how they explain it in the example with "Bob" on page 15) If so, is this redundant? If not, what is the distinction I'm missing?
+
+The tracks on the left should correspond to the number of relevant production icons in your played projects. They track the rate at which you produce resources. They are generally advanced as a result of a Development or Construction phase. The bins on the right contain your current actual resources as a result of accumulated production (minus spending). They increase during a Production phase and they are spent during an Action phase.
+
 [towing-a-comet](https://boardgamegeek.com/thread/2772968/towing-a-comet)
+
+> Do I get two VPs from this towing a comet project card? One from raising 1 oxygen and another one from flipping an ocean tile. Or do I only get those VPs if I did this through a Standard Action?
+
+It's 2 points assuming you're still able to score oceans and oxygen this game.
 
 [anit-gravity-technology-effect-op](https://boardgamegeek.com/thread/2724596/anit-gravity-technology-effect-op)
 
@@ -18,9 +50,24 @@
 
 [how-do-tags-work](https://boardgamegeek.com/thread/2859037/how-do-tags-work)
 
+> how do tags work? for example, there is the corporation arklight, which says to add an animal to it every time it plays an animal / plant mark, including itself. the question is do i add the animal once per card or per mark? for the corporation card itself, I immediately add two animals, since there are two marks, or one?
+
+It should be activated per tag, so yes the corporation card should start with two animals on it. A card can trigger the same effect multiple times.
+See page 5 step 6 of the rulebook. So if you play a card with a plant and animal tag, and you have a card that triggers when you play either of those two tags, it will trigger twice
+
 [atmosphere-filtering-do-you-gain-a-tr-with-the-rai](https://boardgamegeek.com/thread/3031362/atmosphere-filtering-do-you-gain-a-tr-with-the-rai)
 
+> The card Atmosphere filtering #67, says required 2 science, raise the oxygen 1 step. Do I gain a TR when I raise this oxygen 1 step?
+
+Yes. Whenever you increase any of the three parameters by any means, you increase your TR respectively unless the card says otherwise.
+
 [order-of-turn-during-action-phase](https://boardgamegeek.com/thread/2831785/order-of-turn-during-action-phase)
+
+> Should we play one action at a time during the action phase or do all your actions one time and then it's the other player turn?
+
+When you raise any of the global parameters to its maximum on a single phase, everyone continues to get the benefit. There is no "first come" basis because of the simultaneous nature of this version of the game. So when it maxes out, during the same phase, everyone can continue to get the benefit. Then starting the next phase, it is no longer available.
+If it is the oceans that hit their max, then everyone gets the reward shown on the last tile flipped.
+
 
 [adding-resources-to-other-players-in-coop](https://boardgamegeek.com/thread/2703027/adding-resources-to-other-players-in-coop)
 
