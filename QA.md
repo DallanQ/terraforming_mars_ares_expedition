@@ -1,17 +1,18 @@
 [solo-mode-identical-phase-selectiondraw](https://boardgamegeek.com/thread/2701856/solo-mode-identical-phase-selectiondraw)
 
-> If the same phase card that I selected emerges after drawing from the dummy hand, do I play the phase twice?
+> In solo mode, if the same phase card that I selected emerges after drawing from the dummy hand, do I play the phase twice?
 
 No, you don't. You just play that phase once and you will have the action bonus for playing the card for it. It would just be like if you were playing with another player and both played the same action.
 
 [first-solo-play-a-few-clarifications](https://boardgamegeek.com/thread/2721839/first-solo-play-a-few-clarifications)
 
-> In Novice mode at what point do you raise the oxygen or temperature 2 steps when the AI uses all 5 phase cards? 
+> In Solo mode in Novice mode at what point do you raise the oxygen or temperature 2 steps when the AI uses all 5 phase cards?  Is it as soon as the AI plays that last phase card (so before the phases actually play out) or at the end of that round?
 
 You raise oxygen or temperature right after you move the tracker cube one spot up, after the round of the 5th card. This means: a) you fully play both phases you and the AI played, and once you start to prepare the next round (shuffle AI cards and move the tracker) you will raise one of the tracks; b) you will do this a total of 4 times (in novice means you do a total of 8 raises, 4x2)
 
-> In Novice mode do you have to raise either oxygen or temperature 2 steps and can’t raise each once instead?
+> In Solo mode in Novice mode do you have to raise either oxygen or temperature 2 steps and can’t raise each once instead?
 
+Quoting: "Increase oxygen OR temperature 2 steps after advancing the dummy player's cube." 
 The rules specifically state that you can raise one or the other and not both.
 
 > The rules say the solo game ends when the AI has played its final phase card but does it actually mean at the end of that round? 
@@ -31,26 +32,24 @@ Yes, If the game ends during the Action phase, players will likely want to conve
 [mining-guild-card-214-inquiry](https://boardgamegeek.com/thread/2714723/mining-guild-card-214-inquiry)
 
 > The effect on the card reads, "Each time you play steel production..." How do folks interpret this card?
+> a. Whenever you build another green card which has steel production in the orange box OR
+> b. Whenever you build something requiring steel production (i.e. another card)
 
 "Whenever you build another green card which has steel production in the orange box". There is only one card in the game that requires steel production. It has a I because that is the only phase that will give you cards that will give you steel production.
 
 [phase-in-a-row](https://boardgamegeek.com/thread/2748840/phase-in-a-row)
 
-> Just say i played production in the last phase of one round, i go to end step and then start a new round. Can i play the production phase now as it is a new round…how do you guys play it for solo?
+> In solo mode, say i played production in the last phase of one round, i go to end step and then start a new round. Can i play the production phase now as it is a new round… how do you guys play it for solo?
 
 You can't play production two phases in a roll.
 
 [basic-question-about-productionresource-tracking-f](https://boardgamegeek.com/thread/2850193/basic-question-about-productionresource-tracking-f)
 
-> The MC cubes on the right side of the board should correspond to the number on the left track? (This also appears to be how they explain it in the example with "Bob" on page 15) If so, is this redundant? If not, what is the distinction I'm missing?
+> Should the MC cubes on the right side of the board correspond to the number on the left track? If so, is this redundant? If not, what is the distinction I'm missing?
 
 The tracks on the left should correspond to the number of relevant production icons in your played projects. They track the rate at which you produce resources. They are generally advanced as a result of a Development or Construction phase. The bins on the right contain your current actual resources as a result of accumulated production (minus spending). They increase during a Production phase and they are spent during an Action phase.
 
 [towing-a-comet](https://boardgamegeek.com/thread/2772968/towing-a-comet)
-
-> Do I get two VPs from this towing a comet project card? One from raising 1 oxygen and another one from flipping an ocean tile. Or do I only get those VPs if I did this through a Standard Action?
-
-It's 2 points assuming you're still able to score oceans and oxygen this game.
 
 [anit-gravity-technology-effect-op](https://boardgamegeek.com/thread/2724596/anit-gravity-technology-effect-op)
 
