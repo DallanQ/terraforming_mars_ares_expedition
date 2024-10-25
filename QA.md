@@ -20,6 +20,14 @@ Yes, at the end of the round.
 
 [exchanging-cards-for-mc](https://boardgamegeek.com/thread/2704875/exchanging-cards-for-mc)
 
+> Can you exchange cards for 3 MC each at any time or just during development?
+
+Yes, you can do it at any time
+
+> When I exchange cards to buy standard projects, does that exchange include an Action phase?
+
+Yes, If the game ends during the Action phase, players will likely want to convert all of their cards in hand and MC into standard actions that gain TR.
+
 [mining-guild-card-214-inquiry](https://boardgamegeek.com/thread/2714723/mining-guild-card-214-inquiry)
 
 > The effect on the card reads, "Each time you play steel production..." How do folks interpret this card?
