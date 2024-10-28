@@ -31,9 +31,7 @@ Yes, If the game ends during the Action phase, players will likely want to conve
 
 [mining-guild-card-214-inquiry](https://boardgamegeek.com/thread/2714723/mining-guild-card-214-inquiry)
 
-> The effect on the card reads, "Each time you play steel production..." How do folks interpret this card?
-> a. Whenever you build another green card which has steel production in the orange box OR
-> b. Whenever you build something requiring steel production (i.e. another card)
+> The effect on the card reads, "Each time you play steel production..." How do folks interpret this card? a. Whenever you build another green card which has steel production in the orange box OR b. Whenever you build something requiring steel production (i.e. another card)
 
 "Whenever you build another green card which has steel production in the orange box". There is only one card in the game that requires steel production. It has a I because that is the only phase that will give you cards that will give you steel production.
 
@@ -208,7 +206,6 @@ Yes. The effect triggers whenever the condition is met, so if the condition is m
 That's just simply a reminder that you can discard cards for 3MC each. This isn't a one off, it can happen multiple times in a row.
 
 [green-cards-ability-after-they-are-played](https://boardgamegeek.com/thread/2698533/green-cards-ability-after-they-are-played)
-*
 
 [mars-university-when-you-discard-do-you-gain-3mc](https://boardgamegeek.com/thread/2860583/mars-university-when-you-discard-do-you-gain-3mc)
 
