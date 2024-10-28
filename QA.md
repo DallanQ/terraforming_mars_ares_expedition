@@ -75,7 +75,6 @@ Yes. Whenever you increase any of the three parameters by any means, you increas
 When you raise any of the global parameters to its maximum on a single phase, everyone continues to get the benefit. There is no "first come" basis because of the simultaneous nature of this version of the game. So when it maxes out, during the same phase, everyone can continue to get the benefit. Then starting the next phase, it is no longer available.
 If it is the oceans that hit their max, then everyone gets the reward shown on the last tile flipped.
 
-
 [adding-resources-to-other-players-in-coop](https://boardgamegeek.com/thread/2703027/adding-resources-to-other-players-in-coop)
 
 [when-using-progressive-policies-it-says-spend-10-m](https://boardgamegeek.com/thread/3079604/when-using-progressive-policies-it-says-spend-10-m)
