@@ -223,6 +223,10 @@ We discard the cards.
 
 [simultaneous-actions-when-nearing-the-end-of-a-con](https://boardgamegeek.com/thread/2695602/simultaneous-actions-when-nearing-the-end-of-a-con)
 
+> Oxygen is 1 step from being maximized. Action phase is selected by two players, both have enough plants to raise oxygen/TR by one. What happens then?
+
+Both get to raise it simultaneously, and both get a Greenery tile, and they both get the TR. If they want to pay for more oxygen raises this Action phase, they can get the TR for it. After this phase is over, the Oxygen is done, and nobody can raise it for TR. They can still do any action that would raise the oxygen, but they would not get the TR. So if you get enough plants on a later action phase (before both temp and Oceans are done) you can still get a Greenery tile for it's endgame point, but no TR. Any other action that raises Oxygen as an effect can be activated similarly, without any TR.
+
 [all-players-selecting-the-same-phase-card-variant](https://boardgamegeek.com/thread/2851691/all-players-selecting-the-same-phase-card-variant)
 
 [end-of-game-question-mp-and-solo](https://boardgamegeek.com/thread/2905352/end-of-game-question-mp-and-solo)
