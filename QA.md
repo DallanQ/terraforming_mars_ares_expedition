@@ -119,23 +119,68 @@ If it is the oceans that hit their max, then everyone gets the reward shown on t
 
 [interns-draw-or-draw-and-keep](https://boardgamegeek.com/thread/3052304/interns-draw-or-draw-and-keep)
 
+> Mining Guild's Effect mentions steel production in Phase I, but wouldn't steel production be in Phase IV?
+
+Each time you play a green card with steel production on it.
+
+> If there is multiple steel production on the card, would it be only one or multiple TR?
+
+Multiple, one TR per steel increase.
+
 [when-to-track-and-when-to-gain-resources](https://boardgamegeek.com/thread/3035612/when-to-track-and-when-to-gain-resources)
+
+> When do you gain resources vs. when do you move your track (player board up)?
+
+Read the first sentence of the Production Phase (p. 15) carefully. It says "Each player collects resources equal to the production on their green cards, corporation card, and place on the TR track." It does NOT mention referencing your player board because you technically do not need to use the player boards at all they are simply a note-taking device to help streamline the production step so you don't have to go through every single card in your tableau every time production happens. But that is why the green cards are worded the way they are, because every time production happens you re-evaluate your production values and take what they tell you to take. Using the player boards, It is much easier to keep on top of the small changes upfront. On p. 11, a red box in the Development Phase section reminds you to update your tracks when you play green cards that give you production (orange hashed box) or capabilities (grey hashed box). This is the only time you update your tracks: when you play green cards. 
 
 [special-resources](https://boardgamegeek.com/thread/2680466/special-resources)
 
+> How do you keep track of different special resources on cards?
+
+Use the resource cubes.
+
+> But how will I not mix it with other special resources?
+
+Put the cubes on each card that collects them. That will keep them separate.
+
 [multiple-use-of-effect-for-standard-action](https://boardgamegeek.com/thread/3037598/multiple-use-of-effect-for-standard-action)
+
+> Card 55 reads (III - Action Phase): Effect: You pay 4 MC less for standard actions that cost MC. Since I can use as many standard actions as I wish during the Action Phase, does that mean I get that bonus every time I spend 15 MC to flip an ocean tile?
+
+That is correct, but note that it is not a rebate. It's not "Pay 15, get back 4", it's "Pay 11".
 
 [do-corporation-icons-count-toward-your-cards](https://boardgamegeek.com/thread/3154281/do-corporation-icons-count-toward-your-cards)
 
+> Do the corporation icons count toward your cards?
+
+Yes they do.
+
 [clarifications-livestock-physics-complex-herbivore](https://boardgamegeek.com/thread/2780859/clarifications-livestock-physics-complex-herbivore)
+
+> Livestock Effect: When you raise the temperature, add 1 animal to this card, Physics Complex Effect: When you raise the temperature, add 1 science resource to this card, Herbivores Effect: When you raise oxygen, flip an ocean tile, or raise the temperature, add 1 animal to this card. If a player raises the related global parameter multiple times during a phase, does the effect adds multiple special (animal/science) resources to the cards? 
+
+Yes. The effect triggers whenever the condition is met, so if the condition is met multiple times in the same phase, the effect triggers multiple times.
 
 [how-often-can-i-discard-a-card-for-money](https://boardgamegeek.com/thread/3025226/how-often-can-i-discard-a-card-for-money)
 
+> If I discard a card at any time during the game to gain 3MC is this a one-off? What is the purpose of 2b, the discard = 3MC on the production track?
+
+That's just simply a reminder that you can discard cards for 3MC each. This isn't a one off, it can happen multiple times in a row.
+
 [green-cards-ability-after-they-are-played](https://boardgamegeek.com/thread/2698533/green-cards-ability-after-they-are-played)
+*
 
 [mars-university-when-you-discard-do-you-gain-3mc](https://boardgamegeek.com/thread/2860583/mars-university-when-you-discard-do-you-gain-3mc)
 
+> Also with Research, when you discard do you gain 3mc?
+
+No, as part of Research you do not gain 3 MC for discarding any cards
+
 [when-celestior-reveals-cards-what-happens-to-uncho](https://boardgamegeek.com/thread/2717929/when-celestior-reveals-cards-what-happens-to-uncho)
+
+> When Celestior reveals cards, what happens to unchosen cards?
+
+We discard the cards.
 
 [sequence-of-effects-vs-requirements](https://boardgamegeek.com/thread/2893539/sequence-of-effects-vs-requirements)
 
