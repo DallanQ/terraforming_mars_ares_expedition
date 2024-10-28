@@ -79,9 +79,21 @@ If it is the oceans that hit their max, then everyone gets the reward shown on t
 
 [when-using-progressive-policies-it-says-spend-10-m](https://boardgamegeek.com/thread/3079604/when-using-progressive-policies-it-says-spend-10-m)
 
+> When using Progressive Policies, it says "Spend 10 MC to raise the oxygen one step..." - does that mean I get a forest token too?
+
+No. Not unless it says so. Trees produce O2, not the other way around.
+
 [getting-mc-for-discarding-cards-in-research-phase](https://boardgamegeek.com/thread/2757082/getting-mc-for-discarding-cards-in-research-phase)
 
+> The rulebook specifically states that if for any reason a player discards a card he can earn 3 MC/card discarded. Does that mean that the 1 card (or 3 cards if you have the phase bonus) discarded during the research phase automatically earns you MC?
+
+No. If an in-game effect, such as a project effect or the research phase, has you discarding a card then you don't get 3 MC for that. You only get the 3 MC if you choose to discard a card outside of such effects.
+
 [action-phase](https://boardgamegeek.com/thread/2681458/action-phase)
+
+> For the Action phase, the rule book states that you are able to activate the standard action during the action phase as many times as you want, and the Action phase card states for the bonus that you may perform an Action again during your turn. Are they basically the same in regard to standard actions that are on the player boards?
+
+The action card states that any actions from cards you have played can each be activated once. The bonus is that one of your cards with an action may be activated a second time. The bonus has to do with the cards, not the standard actions. The standard actions are unlimited, bonus, or otherwise.
 
 [question-about-cards-like-solarpunk-and-volcanic-p](https://boardgamegeek.com/thread/2684673/question-about-cards-like-solarpunk-and-volcanic-p)
 
@@ -89,9 +101,21 @@ If it is the oceans that hit their max, then everyone gets the reward shown on t
 
 [are-steel-and-titanium-spend-when-used-to-lower-th](https://boardgamegeek.com/thread/2812742/are-steel-and-titanium-spend-when-used-to-lower-th)
 
+> WORMS: During the production phase, this card produces 1 plant for each MICROBE you have, including this one. Do I have to count only MICROBE symbols printed on cards or to I count card symbols + microbe tokens placed on these cards (if any).
+
+Note that this counts the microbe tags, which are circular icons. Microbe resources are square.
+
 [livestock-question-on-adding-animals](https://boardgamegeek.com/thread/3055249/livestock-question-on-adding-animals)
 
+> Livestock card has the wording "When you raise the temperature, add 1 animal to this card". If I play a card that says "Raise the temperature by 2 steps". In this case, will I add 1 or 2 animals to the Livestock card? Does the action of raising the temperature by 2 steps count as one or as two separate instances?
+
+You raised the temperature twice, that's 2 animals. 
+
 [do-event-card-tags-count-for-later-cards](https://boardgamegeek.com/thread/2689092/do-event-card-tags-count-for-later-cards)
+
+> Do Event card tags count for later cards?
+
+Yeah, I'm pretty sure that in this game tags on Events count for things that count tags.
 
 [super-unclear-rulesconfusion](https://boardgamegeek.com/thread/2690458/super-unclear-rulesconfusion)
 
@@ -101,9 +125,17 @@ If it is the oceans that hit their max, then everyone gets the reward shown on t
 
 [pashes-step-in-solo-mode](https://boardgamegeek.com/thread/2708546/pashes-step-in-solo-mode)
 
+>  If in solo mode, the phase chosen by me is the same of the dummy deck, that phase would be played 2 times or only once?
+
+Same as the multi-player game, you play that phase once.
+
 [mining-guild-question](https://boardgamegeek.com/thread/3045518/mining-guild-question)
 
 [upgraded-production-card](https://boardgamegeek.com/thread/3054384/upgraded-production-card)
+
+> With the Upgraded Production card that gives plus one MC, and allows you to activate the production of one green card once, can you activate the production box of a card that gives you one MC for every Science tag?
+
+Lightning Harvest? Yes, why not. It is a green card. You can duplicate the effect once. The effect says to collect 1 MC per Science tag.
 
 [the-3-expansions-any-special-solo-mode-rules](https://boardgamegeek.com/thread/3073704/the-3-expansions-any-special-solo-mode-rules)
 
@@ -113,11 +145,17 @@ If it is the oceans that hit their max, then everyone gets the reward shown on t
 
 [same-phase-effects-trigger](https://boardgamegeek.com/thread/2688844/same-phase-effects-trigger)
 
+> During Construction, can I trigger the effect of the first card played with the playing of the second card in the same turn?
+
+Yes. Effects start happening as soon as the card is played.
+
 [anaerobic-microorganisms-use-multiple-times-to-red](https://boardgamegeek.com/thread/2743320/anaerobic-microorganisms-use-multiple-times-to-red)
 
-[mining-guild](https://boardgamegeek.com/thread/2683608/mining-guild)
+> The card Anaerobic Microorganisms has a way to gain microbes, and then an effect saying: When you play a card, you may remove 2 microbes from this card to pay 10 MC less for that card. So if you accumulate 4 microbes on this, can you use them all on the same card to reduce it by 20 MC?
 
-[interns-draw-or-draw-and-keep](https://boardgamegeek.com/thread/3052304/interns-draw-or-draw-and-keep)
+No, it is limited to 2 microbes to pay 10 less for one card. You can use it a second time for another card to spend the other 2. Efects trigger once per trigger, in this case the trigger is playing a card, so it is once per card.
+
+[mining-guild](https://boardgamegeek.com/thread/2683608/mining-guild)
 
 > Mining Guild's Effect mentions steel production in Phase I, but wouldn't steel production be in Phase IV?
 
@@ -126,6 +164,8 @@ Each time you play a green card with steel production on it.
 > If there is multiple steel production on the card, would it be only one or multiple TR?
 
 Multiple, one TR per steel increase.
+
+[interns-draw-or-draw-and-keep](https://boardgamegeek.com/thread/3052304/interns-draw-or-draw-and-keep)
 
 [when-to-track-and-when-to-gain-resources](https://boardgamegeek.com/thread/3035612/when-to-track-and-when-to-gain-resources)
 
