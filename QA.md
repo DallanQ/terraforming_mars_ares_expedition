@@ -231,43 +231,115 @@ Both get to raise it simultaneously, and both get a Greenery tile, and they both
 
 [end-of-game-question-mp-and-solo](https://boardgamegeek.com/thread/2905352/end-of-game-question-mp-and-solo)
 
+> After 5 solo rounds at the end game especially during the action phase, It says that you can discard all your cards for 3 MC each and do standard actions as many as possible. So, does the action phase have to be the last phase at the end of the game (no production and research as the last card phase that was chosen)?
+
+The game ends at the end of the phase in which you've played all 9 oceans, reached +8 temperature, and 14% oxygen. This can happen on phases I, II, or III.
+
+> If I haven't fulfilled all 3 global parameters during the solo mode, what happens?
+
+You lose if you don't complete all 3 global parameters by the end of round 25.
+
 [the-phase-in-which-the-last-ocean-tile-is-flipped](https://boardgamegeek.com/thread/3260315/the-phase-in-which-the-last-ocean-tile-is-flipped)
+
+> During an action phase, there are only 2 unflipped ocean tiles. Player A wants to flip 3 tiles, Player B wants to flip 1, & player C wants to flip 2, how do we decide who gets which bonus(es), since there's no turn order? 
+
+It's dependent on the flow of the game. The first player in real time to choose to flip an ocean does so. Etc. So the last ocean flipped in real time is the last ocean flipped. If a player uses an effect to flip two oceans at once, the last ocean flipped is the one they flipped over second. If they use both hands to flip them over at the same time to be a pain, then get new friends
 
 [raising-the-global-parameter-on-the-last-turn](https://boardgamegeek.com/thread/2767089/raising-the-global-parameter-on-the-last-turn)
 
+> During the phase where the global parameter reaches max, are you allowed to raise that parameter as many times as you want, independently of how many steps were available at the start of the phase? For example, at the start of the phase, there is only one ocean tile left, but I have enough money to buy 5 tiles, so: A) I can only buy 1 tile, as there was only one available at the start of the phase; OR B) I can buy the last tile 5 times?
+
+Whatever the last ocean tile is, you get that reward as many times as you "buy" it. And here Page 14 of the rules wrote: During the phase in which a global parameter reaches its maximum (temperature at +8°C, oxygen at 14%, or 9 ocean tiles f[l]ipped), all players can continue to take actions or play cards to increase that parameter. They will receive all of the benefits, such as forest VP and TR. During the phase that the last ocean tile is flipped, any player who continues to take actions or play cards to flip oceans will gain the reward on the last ocean tile that was flipped in addition to the TR.
+
 [olympus-conference-draw-or-or-one](https://boardgamegeek.com/thread/2848905/olympus-conference-draw-or-or-one)
 
+> In the card Olympus Conference, the effect of it is that whenever you play a SCIENCE, including this one, draw a card. Does it stand to reason that if I play a single card later that has two SCIENCE tags on it, that I draw two cards?
+
+The effects are true 'per tag'. If the card has two tags, you treat each tag separately for discounts, bonuses, or effects.
+So yes, draw two cards.
+
 [mining-guild-start-the-game-with-0-or-1-steel-capa](https://boardgamegeek.com/thread/2778277/mining-guild-start-the-game-with-0-or-1-steel-capa)
+
+> If I choose Mining Guild as my corporation, do I start with my Steel Capability on my player board set at 0 or 1?
+
+In this case, yes, with Mining Guild you start with steel capacity on 1. From the rulebook, NOTE: You will always be able to calculate your current production and capabilities by looking at your cards in play. The player board is just more convenient. 
+The wording on the cards is designed so you don't need the production tracks on the player board to play. Your production tracks simply say what your cards are already saying.
 
 [solo-when-dummy-hand-reveals-the-same-phase-you-ch](https://boardgamegeek.com/thread/2687174/solo-when-dummy-hand-reveals-the-same-phase-you-ch)
 
 [add-animal-to-another-card-add-microbe](https://boardgamegeek.com/thread/2687086/add-animal-to-another-card-add-microbe)
 
+> How do you know if a card can accept an animal, microbe, etc onto it? And I assume this is tracked with cubes as normal.
+
+The card will need to say it can and yes.
+
 [in-solo-mode-to-help-increase-final-score-can-i-st](https://boardgamegeek.com/thread/3069896/in-solo-mode-to-help-increase-final-score-can-i-st)
 
+> I know that in the multiplayer game you can do this in the phase that 02 is maxed and not after that but for Solo could I get more VP from forests (no TR rating I know) in a future action stage?
+
+In the phase that oxygen is maxed out, you can continue to get forest tiles and get VP for the tiles and TR for the associated oxygen. After that you can continue to get forest tiles, and they are still worth one VP, but they stop giving TR. This is true for both multiplayer and solo.
+
 [when-you-spend-8-plants-andor-20-mc-to-raise-the-o](https://boardgamegeek.com/thread/2851768/when-you-spend-8-plants-andor-20-mc-to-raise-the-o)
+
+> When you spend 8 plants and/or 20 MC to raise the Oxygen you raise your TR also correct? But these actions also gives you a forest token so it is another TR per token when the game ends correct? So basically raising the oxygen gives you 1+1=2 TR in total compared to other standard actions that gives you only 1 TR. Is this right or wrong?
+
+Raising Oxygen increases your TR, as long as Oxygen is not maxed out at the start of the Phase. The Forest token gives you a victory point at the end of the game. As TR is converted to victory points at game end then yes, you could in effect score 2 VPs for a Forest tile. But note the difference between TR (usable on future turns to generate income) and VPs (apply only at the end of the game). This action does give you 2 points (1 for the TR, 1 for the forest token), but only a single TR on the track (for income, etc.)
 
 [infrastructure-track-less-than-5](https://boardgamegeek.com/thread/3048080/infrastructure-track-less-than-5)
 
 [timing-of-construction-phase-bonus](https://boardgamegeek.com/thread/2702651/timing-of-construction-phase-bonus)
 
+> If you choose the construction phase, can you take the draw-a-card bonus before playing a red or blue card?
+
+Rulebook Page 12 wrote:
+Bonus: If you chose this phase, you can either: Draw a card before or after playing a card this phase OR you may play an additional blue or red card this phase.
+
+> Also, does the additional card need to be the same color as the first?
+
+No.
+
 [production](https://boardgamegeek.com/thread/2831869/production)
 
 [who-gets-the-move](https://boardgamegeek.com/thread/2706137/who-gets-the-move)
 
+> I played the Action Card (III) and hubby played Production (IV). I purchased the last 3 Oceans and finish the game, but hubby stated he wanted an Ocean. We couldn't find anywhere in the instructions as to who would get the move. I let him take an Ocean and do his thing with his Ocean card; I purchased the remaining 2 oceans to finish the game. I lost by 4 points. Any thoughts on how to play when simultaneously doesn't work? Would it come down to whoever played the card?
+
+You both get as many oceans as you can afford. To determine which bonus you get it is important to only flip one ocean tile at a time. Whichever ocean tile was flipped last has the bonus that will be awarded to all further ocean actions for the rest of the phase.
+You can find the rule on page 14 in the rulebook:
+During the phase in which a global parameter reaches its maximum (temperature at +8°C, oxygen at 14%, or 9 ocean tiles fipped), all players can continue to take actions or play cards to increase that parameter. They will receive all of the benefits, such as forest VP and TR. During the phase that the last ocean tile is flipped, any player who continues to take actions or play cards to flip oceans will gain the reward on the last ocean tile that was flipped in addition to the TR.
+
 [volcanic-pools-interpretation](https://boardgamegeek.com/thread/2839948/volcanic-pools-interpretation)
+
+> Volcanic Pools (card # 62) text says: "Action: Spend 12 MC to flip an ocean tile. Reduce this by 1 MC per power tag you have." Do I reduce the cost of flipping an ocean tile, or do I reduce the cost of playing the card?
+
+The cost of flipping an ocean tile using the card's action (so not flipping ocean tiles through standard actions, and not playing the card).
 
 [tags-in-discovery-with-certain-effects-on-drawing](https://boardgamegeek.com/thread/3146560/tags-in-discovery-with-certain-effects-on-drawing)
 
 [red-card-requirements](https://boardgamegeek.com/thread/2717186/red-card-requirements)
 
+> If I need 3 events already played to play a card, are they MY events or total events?
+
+Your events.
+
 [how-do-you-pay-for-special-resources](https://boardgamegeek.com/thread/3114054/how-do-you-pay-for-special-resources)
 
 [effects-stating-when-you-play-does-it-include-acti](https://boardgamegeek.com/thread/2777197/effects-stating-when-you-play-does-it-include-acti)
 
+> I have some cards that say "when you play a card with symbol X then get a Y". Does this only trigger when I purchase a card from my hand and play it on table. Or does playing the action on cards already in my tablou with those symbols count?
+
+The symbols you're referring to are called "tags". "Play" means a card moving from your hand to your tableau.
+
 [red-event-cards](https://boardgamegeek.com/thread/2700686/red-event-cards)
 
 [corporation-card-effectsactions](https://boardgamegeek.com/thread/2683428/corporation-card-effectsactions)
+
+> Page 6 of the rulebook says Corporation Card Effect/Action: "This shows any ongoing effects or actions you have access to during the game"
+Example: "Teractor" -- "Effect: When you play an [Earth], you pay 3 MC less for it."
+Page 5 (Card Anatomy), #4 (Tags) says "Cards can have up to three tags. Tags have no inherent value but are referenced in the ability section of many cards." The illustration shows #4 with arrows pointing to the iconography running vertically down the left side of the Project cards.
+Question: Does the Teractor effect apply to any Project card that contains at least one [Earth] tag?
+
+You are correct. Teractor essentially discounts all cards that have an Earth tag.
 
 [dummy-player-deck-open-info](https://boardgamegeek.com/thread/2848148/dummy-player-deck-open-info)
 
