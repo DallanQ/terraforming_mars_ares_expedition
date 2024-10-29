@@ -345,9 +345,22 @@ You are correct. Teractor essentially discounts all cards that have an Earth tag
 
 [when-do-cubes-on-the-player-board-advance](https://boardgamegeek.com/thread/3223744/when-do-cubes-on-the-player-board-advance)
 
+> The resource cubes on my player board advance, when?
+
+When your production increases, mostly due to the effects of cards played.
+
 [action-phase-order-of-action-execution](https://boardgamegeek.com/thread/2829774/action-phase-order-of-action-execution)
 
+> I have a question regarding Action Phase. Action Phase includes: one-time execution of cards actions, performing standard actions any number of times, performing one card action (Bonus). Assuming I played Action Phase (i.e. I have a Bonus action) - is the order of action execution optional?
+Can I, for example, first act as the same card twice (second time as a Bonus), then the standard actions and finally the actions of the other cards ???
+
+Whatever order you want.
+
 [helion-corporation-clarification](https://boardgamegeek.com/thread/2724594/helion-corporation-clarification)
+
+> The text on Helion effect box is: "EFFECT: You may use heat as MC. You may not use MC as heat." Does this gives you the option to convert your heat to MC at any time, or can you only use heat directly as a replacement for MC. The issue is when in Action phase and you are required to use your heat to increase temperature, the player having Helion wanted to convert some heat to MC before having to use heat for temperature increase?
+
+Whenever you spend MC you may spend heat as MC. This does not let you freely convert heat to MC.
 
 [crisis-mode-detriment-token](https://boardgamegeek.com/thread/3029837/crisis-mode-detriment-token)
 
