@@ -368,19 +368,41 @@ Whenever you spend MC you may spend heat as MC. This does not let you freely con
 
 [construction-phase-card-question](https://boardgamegeek.com/thread/3144737/construction-phase-card-question)
 
-[nitrate-reducing-bacteria-question](https://boardgamegeek.com/thread/2713208/nitrate-reducing-bacteria-question)
+> If I chose to play this phase care and I did not play a card with it, can I play the card that I drew with the Bonus "draw a card?"
 
+You can play the phase and the bonus in any order you wish. So yes, you can first draw the bonus card and then play any one card (including the one you just drew).
+
+[nitrate-reducing-bacteria-question](https://boardgamegeek.com/thread/2713208/nitrate-reducing-bacteria-question)
+*
 [research-discard](https://boardgamegeek.com/thread/2686174/research-discard)
+
+> In Research phase, the way the action is written it appears you draw 2 cards and discard one of the 2 you draw or more with the bonus. Or is it you're allowed to add any drawn cards to your hand and discard any of them you want?
+
+From the rule book, Quote: Each player draws two cards, keeps one, and discards the other. Bonus: If you choose this phase, you draw three additional cards and keep one additional card. Meaning, in total, you draw five cards and keep two, discarding the other three.
+It's pretty clear that you discard from cards you just draw.
 
 [red-cards](https://boardgamegeek.com/thread/2808848/red-cards)
 
+> Do the icons on played red cards count only at the time of being played, or always? Do the science symbols on red cards count towards the total number of science icons?
+
+They keep counting until the end of the game. Or until an effect removes them from your tableau (the promo 'Synthetic Catastrophe' can do this).
+
 [do-you-play-simultaneously-per-phase-or-per-round](https://boardgamegeek.com/thread/2686237/do-you-play-simultaneously-per-phase-or-per-round)
+
+> How do you proceed after Phase cards have been revealed? A. Do players proceed simultaneously from Phase to Phase, waiting at the end of each phase for everybody to finish before progressing to the next? Or B. Do players proceed simultaneously uninterrupted until they finish the entire round?
+
+I believe simultaneous play is intended to be played per phase, not uninterrupted for the entire round. The check for card requirements (i.e. minimum Oxygen) is determined at the beginning of the phase it was played. If some players have already moved to Phase V, while you're still playing a card in Phase I, it would be really hard to determine if the requirements were met when all players were in Phase I.
+The rulebook states that all players mu complete a phase before proceeding to the next phase that was played. So everyone must complete phase 1 before moving on to phase 2
 
 [worms-card-effect](https://boardgamegeek.com/thread/2698410/worms-card-effect)
 
 [card-effect-interplanatory-relations](https://boardgamegeek.com/thread/2765900/card-effect-interplanatory-relations)
 
 [when-do-effect-cards-trigger](https://boardgamegeek.com/thread/2685173/when-do-effect-cards-trigger)
+
+> When do effect cards trigger? Before during or after you play a card?
+
+After. That being said, cost reductions apply to the playing of the card.
 
 [game-end-action-phase](https://boardgamegeek.com/thread/2686777/game-end-action-phase)
 
@@ -390,7 +412,15 @@ Whenever you spend MC you may spend heat as MC. This does not let you freely con
 
 [solo-mode-dummy-hand-clarification](https://boardgamegeek.com/thread/3334078/solo-mode-dummy-hand-clarification)
 
+> I have a question regarding the Solo mode: what happen if in the planning step I choose my phase card and I reveal the same phase card from the dummy hand? I will just play a single phase for that round?
+
+Yes, just like with two players.
+
 [forest-token-when-oxygen-raised-with-card-effect](https://boardgamegeek.com/thread/2690577/forest-token-when-oxygen-raised-with-card-effect)
+
+> Do I receive a forest token if I raise the oxygen level through a card effect, e.g. using Steelworks? Or are forest tokens received only when raising the oxygen level through standard actions?
+
+You only get a forest token when converting eight plants, or resolving some other card effect that explicitly says you get a forest token. Just raising the oxygen level isn't necessarily the same thing as planting trees — in particular Steelworks does not give you a forest token.
 
 [solo-rules-end-of-game-scoring-and-advanced-rule](https://boardgamegeek.com/thread/2919373/solo-rules-end-of-game-scoring-and-advanced-rule)
 
@@ -398,7 +428,15 @@ Whenever you spend MC you may spend heat as MC. This does not let you freely con
 
 [blocking-benefits-with-maximum-parameters-between](https://boardgamegeek.com/thread/2857250/blocking-benefits-with-maximum-parameters-between)
 
+> If you in the "Construction phase (II)" play a card that flip the last ocean (or increase last temperature, or oxygen), can players in the "Action phase (III)" gain benefits for flipping oceans and/or TR?
+
+No. You check at the start of every phase.
+
 [temp-1-step-max-can-one-player-gain-3-tr-by-raisin](https://boardgamegeek.com/thread/2695719/temp-1-step-max-can-one-player-gain-3-tr-by-raisin)
+
+> Since all players play simultaneously, every player may still gain TR or bonus from raising that parameter in the same phase that it maximized. However, at the beginning of the phase, if the temperature is only one step from the maximum, that means only one step is available for all players. May one player still gain 3 TR by playing a "raise 3 temp" card?
+
+Yes. And other players in that same phase could gain TR as well. But after that phase, no one gains TR for raising the temp. It’s to be fair and balanced.
 
 [automated-factories-rules](https://boardgamegeek.com/thread/3334352/automated-factories-rules)
 
@@ -406,7 +444,19 @@ Whenever you spend MC you may spend heat as MC. This does not let you freely con
 
 [assembly-lines-clarification](https://boardgamegeek.com/thread/2700584/assembly-lines-clarification)
 
+> For the Blue project card Assembly Lines, the effect reads: When you use an "Action" effect on one of your cards, gain 1 MC. I'm assuming this bonus effect can only be used once similar to actions only being able to be used once. Just clarifying that I don't get 1 MC for each "action" I take during Phase III if I have played Assembly Lines.
+
+It's an effect, so it triggers for EVERY action you do via a card.
+It would not trigger for standard actions.
+
 [anti-grav-technology-including-itself](https://boardgamegeek.com/thread/2696102/anti-grav-technology-including-itself)
+
+> Most cards which give rewards based on tags or playing cards explicitly say either "including this" or "excluding this". However, Anti-Gravity Technology just says:
+Quote:
+Effect: When you play a card, gain 2 heat and 2 plants.
+Does it give you 2 heat and plants for itself as well? Or only future cards played?
+
+In general, effects of cards come into play when the card is already played. So in this case that's too late to trigger from the effect of playing the card itself. Only future cards.
 
 [thoughts-arround-simultaneous-play](https://boardgamegeek.com/thread/3261199/thoughts-arround-simultaneous-play)
 
@@ -414,11 +464,44 @@ Whenever you spend MC you may spend heat as MC. This does not let you freely con
 
 [are-forest-tiles-limited](https://boardgamegeek.com/thread/3082954/are-forest-tiles-limited)
 
+> Are forest tiles limited?
+
+the only limit is your cards letting you get forest tiles.
+
 [moving-up-the-blue-track](https://boardgamegeek.com/thread/2705914/moving-up-the-blue-track)
+
+> How do I move my cube up the blue track? I know it is related to earning cards (I think). Does it mean each time I earn a card I move up the cube? If so, what is the benefit?
+
+The blue track tracks permanent card draw bonuses. Every time you buy a card that gives you card draw during the production phase, you add the card draw bonus here. When you produce, you will use this to know how many cards to draw (if any).
 
 [gaining-resources-for-each-symbol-does-it-increase](https://boardgamegeek.com/thread/2881850/gaining-resources-for-each-symbol-does-it-increase)
 
+> Let's say that you have a card that gives you 1 MC production for each plant symbol you have. Then you play a new card with a plant symbol on another round. Does your MC production increase by 1? Or is that production bonus only counted at the time you play the card that gives you the bonus?
+
+It increases when you play more of that tag. 
+Rulebook page 7, note in the bottom left: "NOTE: Some production cards increase their production when you have more of a specific tag. You'll need to update your player mat every time you play that tag."
+
 [tempoxygenocean-limitations-and-scoring-them-the-s](https://boardgamegeek.com/thread/2988187/tempoxygenocean-limitations-and-scoring-them-the-s)
 
+> When a condition reaches maximum e.g. oxygen or temperature, you can increase it more than max and gain vp but only in that specific round, you cannot do it on the next one right?
+
+In that phase, not that round.
+
+> The same happens when planting forests but you can continue gaining forest tokens correct?
+The same thing work with cards also? Some cards have some action effects that raise temperature or heat so I guess these cannot be used also?
+
+Correct
+
+> I am asking because I had the following combo, every time that I raised the temperature I could put an animal on a card and that would be 1 vp at the end of the game.
+But when we reached max temperature I stopped using the card. Was I correct?
+
+Correct. Once that phase ends you can no longer increase the temperature.
+
 [convert-mc-into-standard-actions-end-of-the-game](https://boardgamegeek.com/thread/3353113/convert-mc-into-standard-actions-end-of-the-game)
+
+> If the Game ends during the Action Phase, Players will likely want to convert all of their Cards in Hand and MC into Standard Action that gains TR.
+Let's say the Game ends during the Action Phase and Temperature is the Last Parameter that reaches the Maximum. I can only convert my MC into a Standard action that raises Heat to gain TR, correct? 
+
+Correct.
+However, you can always spend MC for forest tokens, even if oxygen is maxed. You get the point for the forest token, but not the TR.
 
