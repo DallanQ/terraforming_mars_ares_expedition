@@ -49,7 +49,7 @@ The oxygen and temperature tracks are each divided into four colors: purple, red
 
 Project cards are the backbone to building a powerful corporation in order to win the game. It is important to note that at any time you may discard a project card in your hand to gain 3 MC. Project cards have the following pieces of information on them:
 
-> image of cards with the name at the top, the cost in the upper-left corner, the requirement below the cost on the left, the tags down the left side, the color on the left, the effect, production, capability and action at the bottom left, the ability at the bottom right, the vp down the right side and the card number underneath the ability.
+> image of cards with the name at the top, the cost at the upper-left corner, the requirement below the cost on the left, the tags between the requirement and anctivity phase at the left, the effect, production, capability and action at the bottom left, the ability at the bottom right, the vp down the right side and the card number underneath the ability.
 
 1. **NAME**
   
@@ -87,7 +87,7 @@ C. Red cards have effects that happen immediately and do not provide any additio
 
 These cards represent the corporation each player is acting as. Corporation cards have five parts:
 
-> Image of a card with name at the top, a tag at the upper left corner, logo at the top middle, starting resources below the logo and beside the name, and the effect/action at the bottom of the card.
+> Image of an interplanetary card with the name at the top, a tag at the upper left corner, logo at the top middle below the name, starting resources below the logo and beside the name, and the effect/action at the bottom of the card.
 
 1. **NAME**
 
@@ -121,11 +121,11 @@ The player board keeps track of your current resources and production. Resource 
 
 2. **PRODUCTION TRACKS** - When you gain production of a resource, move the corresponding cube on its track. Add a second cube to the right column if needed. There are four types of production: (a.) MC, (b.) card, (c.) heat, and (d.) plant. The production tracks show how much of each resource you will gain during the production phase.
 
-*Example: If you gain two heat production on the first turn, move your player cube on the heat production track from 0 to 2.*
+**Example:** _If you gain two heat production on the first turn, move your player cube on the heat production track from 0 to 2._
 
 3. **RESOURCES** - Whenever you gain (a.) MC, (b.) heat, or (c.) plants, place the copper, silver, and gold cubes into the section corresponding to the resource gained. The copper cubes are worth 1, the silver 5, and the gold 10.
 
-*Example: If you produce 6 plants, place 1 copper cube and 1 silver cube into the green resource section to the right of the plant production track on your player board.*
+**Example:** _If you produce 6 plants, place 1 copper cube and 1 silver cube into the green resource section to the right of the plant production track on your player board._
 
 4. **CAPABILITIES** - When you gain (a.) steel or (b.) titanium capabilities, move the corresponding cube on its track. Add a second cube to the right column if needed.
 
@@ -143,25 +143,25 @@ The player board keeps track of your current resources and production. Resource 
 
 There are four different kinds of resources in **Terraforming Mars: Ares Expedition**: mega credits, heat, plants, and special resources.
 
-### MEGA CREDITS (MC) (page 7)
+#### MEGA CREDITS (MC) (page 7)
 
 > Image of a golden card with a letter C crested on it
 
 MC is used to play cards and activate actions.
 
-### HEAT (page 7)
+#### HEAT (page 7)
 
 > Image of a red card with three thunderbolts crested on it
 
 Heat is used to raise the temperature of Mars. During the action phase, players may spend 8 heat to raise the temperature one step and gain 1 TR.
 
-### PLANTS (page 7)
+#### PLANTS (page 7)
 
 > Image of a green card with a leaf crested on it
 
 Plants are used to make forests, which raise the oxygen on Mars. During the action phase, players may spend 8 plants to gain a forest VP, raise the oxygen one step, and gain 1 TR.
 
-### SPECIAL RESOURCES (page 7)
+#### SPECIAL RESOURCES (page 7)
 
 > Image of a green card with a paw crested on it, Image of a microbe, and an image of a white card with an atom crested on it. 
 
@@ -169,19 +169,19 @@ Some cards allow you to place special resources (**animals**, **microbes**, and 
 
 ## Other Tokens (page 7)
 
-### FOREST VP TOKENS (page 7)
+#### FOREST VP TOKENS (page 7)
 
 > Image of a forest in the shape of hexagon
 
 Awarded when a forest is built. Worth 1 VP at the end of the game. There are 5 VP forest tokens in case you run out of 1's.
 
-### PHASE TRACKING TOKENS (page 7)
+#### PHASE TRACKING TOKENS (page 7)
 
 > Image of a card with a white one and a selected phase 
 
 Show which phases were selected by all players during the round.
 
-### OCEAN TILES (page 7)
+#### OCEAN TILES (page 7)
 
 > Image of an ocean in a hexagon shape
 
@@ -190,6 +190,8 @@ During setup, place these on the board with the orange side faceup. When you fli
 ## SETUP (page 8)
 
 1. Set the game board in the middle of the table. 
+
+> An image of the game board positioned in the middle of the play area, with the two clear clear cubes placed at the temperature and oxygen tracks, 6 ocean tiles placed at the center of the board with their blue sides faced downward, the five phase tracking tokens arranged at the right side of the board in decending order with their number side faced up, the copper, silver and gold cubes, and forest victory point tokens at the lower right side of the board, and a player's player board with 6 cubes placed at the 6 production tracks.
 
 2. Set the phase tracking tokens next to the game board with the closed door side up.
 
@@ -208,7 +210,7 @@ During setup, place these on the board with the orange side faceup. When you fli
 
 Shuffle all of the project cards together facedown to form the project card deck. Deal each player eight project cards. You will keep all of them. Split the deck into two piles so that all players can easily reach one of the decks.
 
-8. ***For your first game**, instead of performing step 8, deal each player one of the corporation cards with a (icon of a black star) next to its card number.*
+8. ***For your first game**, instead of performing step 8, deal each player one of the corporation cards with a (a black star icon) next to its card number.*
 
 Shuffle all of the corporation cards facedown and deal each player two corporation cards. Each player picks one to use for the game and discards the other. Return all unused corporation cards to the box.
 
