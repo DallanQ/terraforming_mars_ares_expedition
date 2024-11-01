@@ -191,7 +191,7 @@ During setup, place these on the board with the orange side faceup. When you fli
 
 1. Set the game board in the middle of the table. 
 
-> An image of the game board positioned in the middle of the play area, with the two clear clear cubes placed at the temperature and oxygen tracks, 6 ocean tiles placed at the center of the board with their blue sides faced downward, the five phase tracking tokens arranged at the right side of the board in decending order with their number side faced up, the copper, silver and gold cubes, and forest victory point tokens at the lower right side of the board, and a player's player board with 6 cubes placed at the 6 production tracks.
+> An image of the game board positioned in the middle of the play area, with the two clear cubes placed at the temperature and oxygen tracks, 6 ocean tiles placed at the center of the board with their blue sides faced downward, the five phase tracking tokens arranged at the right side of the board in decending order with their number side faced up, the copper, silver and gold cubes, and forest victory point tokens below the lower right side of the board, and a player's player board with 6 cubes placed at the 6 production tracks.
 
 2. Set the phase tracking tokens next to the game board with the closed door side up.
 
