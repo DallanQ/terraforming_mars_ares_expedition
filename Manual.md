@@ -246,7 +246,8 @@ In each step and phase, players play simultaneously. Not all phases will happen 
 
 Each player simultaneously chooses a phase card from their hand and places it facedown.
 
-Starting with the second round, players will place this card at a 90° angle on top of the last phase card they chose. Players are not allowed to pick the same phase two rounds in a row. After revealing the played phase card, players will return the phase card they chose from the previous round to their hand.
+Starting with the second round, players will place this card at a 90° angle on top of the last phase card they chose. Players are not allowed to pick the same phase two rounds in a row. After revealing the played phase card, players will return the phase card they chose from the 
+ previous round to their hand.
 
 Once all players have done this, the chosen phase cards are revealed. These cards determine which phases are resolved this round. For each phase that was chosen for this round, flip the associated phase tracking token faceup so that the name of the phase is showing.
 
@@ -304,7 +305,7 @@ The cost to play a project card must be paid with MC. You can use MC cubes you h
 
 ###### REQUIREMENTS (page 12)
 
-Some cards have additional requirements in order to play them. Cards with requirements have a checkmark icon (an icon of a checkmark) next to the cost of the card. These requirements are listed in the text box at the bottom of the card next to the same checkmark icon (an icon of a checkmark) and shown in icons at the top. If a card has an ocean, oxygen or temperature requirement, that requirement needs to have been met **at the start of the phase** in order for you to be able to play it. *If the requirements of a card are not met, you cannot play that card.*
+Some cards have additional requirements in order to play them. Cards with requirements have a checkmark icon (an icon of a golden checkmark) next to the cost of the card. These requirements are listed in the text box at the bottom of the card next to the same checkmark icon (an icon of a checkmark) and shown in icons at the top. If a card has an ocean, oxygen or temperature requirement, that requirement needs to have been met **at the start of the phase** in order for you to be able to play it. *If the requirements of a card are not met, you cannot play that card.*
 
 ###### STEEL AND TITANIUM (page 12)
 
@@ -324,11 +325,11 @@ You may play cards that raise parameters beyond their maximums or add special re
 
 > Image of a green card called microprocessor
 
-> Image of a card with two steel and another card with development phase
+> Image of a card with two steel (the two steels are circled yellow and labeled 1) and another card with development phase (The development phase is circled yellow and labeled 2)
 
-> Image of two discarded card with one overlapping the other and a white palm above them
+> Image of two discarded card with one overlapping the other, a white palm above them, with a yellow arrow pointing downward attached to the white palm.(This image is labeled number 4)
 
-> Image of four copper cubes plus an image of two project cards side by side with a white palm above them 
+> Image of four copper cubes (labeled 3) plus an image of two project cards side by side with a white palm above them (labeled 5). 
 
 #### III ACTION PHASE: (page 14)
 
@@ -360,9 +361,9 @@ During the action phase, players may use the standard actions printed on their p
 
 - Spend 15 MC to flip an ocean tile. When a player flips an ocean tile, they immediately receive the reward shown on the back of the tile.
 
-*Reminder*: Whenever you raise oxygen, raise temperature, or flip an ocean, you gain 1 TR. This happens for each step you raise those parameters.
+*Reminder*: Whenever you raise oxygen, raise temperature, or flip an ocean, you gain **1 TR.** This happens for each step you raise those parameters.
 
-During the phase in which a global parameter reaches it's maximum (temperature at +8°C, oxygen at 14%, or 9 ocean tiles flipped), all players can continue to take actions or play cards to increase that parameter. They will receive all of the benefits, such as forest VP and TR. During the phase that the last ocean tile is flipped, any player who continues to take actions or play cards to flip oceans will gain the reward on the last ocean tile that was flipped in addition to the TR.
+During the phase in which a global parameter reaches it's maximum (temperature at +8°C, oxygen at 14%, or 9 ocean tiles flipped), all players can continue to take actions or play cards to increase that parameter. They will receive all of the benefits, such as forest **VP** and **TR.** During the phase that the last ocean tile is flipped, any player who continues to take actions or play cards to flip oceans will gain the reward on the last ocean tile that was flipped in addition to the **TR**.
 
 After the phase in which the parameter reached it's maximum, players can no longer gain rewards for increasing that parameter.
 
@@ -671,12 +672,22 @@ Each player simultaneously chooses a phase card from their hand and places it fa
 
 During this step, players resolve the phases that were chosen during the planning step. There are no turns, so each player plays each phase at the same time. All players may participate in the selected phases, but players only receive bonuses for the phase they selected. Bonuses are printed in the bottom section of the phase cards. The chosen phases are always resolved in the following order:
 
-- **I. DEVELOPMENT PHASE** Each player may play one green project card from their hand by paying its cost.
-- **II. CONSTRUCTION PHASE** Each player may play one blue or one red project card from their hand by paying its cost.
-- **III. ACTION PHASE** - Each player may resolve the "Action:" ability on each of their blue cards in play once.
-- **IV. PRODUCTION PHASE** - Each player collects MC equal to their TR and resources based on their green cards and their corporation card.
-- **V. RESEARCH PHASE** - Each player draws two cards, keeps one, and discards the other.
+**I. DEVELOPMENT PHASE**
+- Each player may play one green project card from their hand by paying its cost.
+  
+**II. CONSTRUCTION PHASE**
+- Each player may play one blue or one red project card from their hand by paying its cost.
+ 
+**III. ACTION PHASE**
+- Each player may resolve the “Action:” ability on each of their blue cards in play once.
+   
+**IV. PRODUCTION PHASE**
+- Each player collects MC equal to their TR and resources based on their green cards and
+their corporation card.
 
+**V. RESEARCH PHASE**
+- Each player draws two cards, keeps one, and discards the other.
+  
 ## C. END STEP (page 20) 
 
 During this step, each player discards down to ten cards in hand. For each card discarded this way, that player gains 3 MC as normal.
