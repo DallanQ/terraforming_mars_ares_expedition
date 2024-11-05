@@ -99,9 +99,9 @@ The action card states that any actions from cards you have played can each be a
 
 [are-steel-and-titanium-spend-when-used-to-lower-th](https://boardgamegeek.com/thread/2812742/are-steel-and-titanium-spend-when-used-to-lower-th)
 
-> WORMS: During the production phase, this card produces 1 plant for each MICROBE you have, including this one. Do I have to count only MICROBE symbols printed on cards or to I count card symbols + microbe tokens placed on these cards (if any).
-
-Note that this counts the microbe tags, which are circular icons. Microbe resources are square.
+> In the original Terraforming Mars game you can spend Steel or Titanium to lower the cost for specific cards. Within the documentation of The Ares Expedition I found that having Steel and Titanium lowers the cost of specific cards, but I could not find that you have to spend the resources. E.g. if i have two steel to lower the cost of (mining) cards, do I spend the two steels, or do I keep them after lowering the cost of the card?
+ 
+You don't have to spend them. Ares Expedition gets rid of the concept of steel and titanium as resources. Instead having steel and titanium is just a discount on cards with the relevant tags.
 
 [livestock-question-on-adding-animals](https://boardgamegeek.com/thread/3055249/livestock-question-on-adding-animals)
 
@@ -111,13 +111,18 @@ You raised the temperature twice, that's 2 animals.
 
 [do-event-card-tags-count-for-later-cards](https://boardgamegeek.com/thread/2689092/do-event-card-tags-count-for-later-cards)
 
-> Do Event card tags count for later cards?
+> In regular TM, you place event cards face down and ignore the tags for the rest of the game after you play them. However, in AE, it instructs you to place red cards in such a manner as to be able to see their tags and the rules don't seem to say one way or the other. in solo games, can I chose to count them since it said to place them so you can see the tags?
 
-Yeah, I'm pretty sure that in this game tags on Events count for things that count tags.
+Yeah, in this game tags on Events count for things that count tags.
 
 [super-unclear-rulesconfusion](https://boardgamegeek.com/thread/2690458/super-unclear-rulesconfusion)
 
 [question-about-anaerobic-microorganisms](https://boardgamegeek.com/thread/2885572/question-about-anaerobic-microorganisms)
+
+> Anaerobic Microorganisms says - Effect: When you play a card, you may remove 2 microbes from this card to pay 10 MC less for that card.
+> Effect: When you play an [ANIMAL], [MICROBE], or [PLANT], including this, add a microbe to this card. If played a card with a [MICROBE] and a [PLANT] tag. Do I add 1 or 2 microbes to Anaerobic Microorganisms? i.e. do you add microbes per card or per tag?
+
+The ruling on cards like this has always been "per tag." 
 
 [general-question-to-special-resources-on-cards-her](https://boardgamegeek.com/thread/3119792/general-question-to-special-resources-on-cards-her)
 
@@ -287,6 +292,10 @@ Raising Oxygen increases your TR, as long as Oxygen is not maxed out at the star
 
 [infrastructure-track-less-than-5](https://boardgamegeek.com/thread/3048080/infrastructure-track-less-than-5)
 
+> Are you not supposed to use infrastructure Track at 2-4 players? It doesn't say so in the rules but it kinda implies it by telling you to remove the cards labeled 5+ when not using the infrastructure Track.
+
+It says you can use them, but it will make for a longer game at this player count range. In which case you would leave in the cards for 5+ so that you have a better chance of manipulating the infrastructure track. See Setup, step 2: "It is recommended to only use this track for games with 5 or more players..."
+
 [timing-of-construction-phase-bonus](https://boardgamegeek.com/thread/2702651/timing-of-construction-phase-bonus)
 
 > If you choose the construction phase, can you take the draw-a-card bonus before playing a red or blue card?
@@ -391,7 +400,7 @@ They keep counting until the end of the game. Or until an effect removes them fr
 
 > How do you proceed after Phase cards have been revealed? A. Do players proceed simultaneously from Phase to Phase, waiting at the end of each phase for everybody to finish before progressing to the next? Or B. Do players proceed simultaneously uninterrupted until they finish the entire round?
 
-I believe simultaneous play is intended to be played per phase, not uninterrupted for the entire round. The check for card requirements (i.e. minimum Oxygen) is determined at the beginning of the phase it was played. If some players have already moved to Phase V, while you're still playing a card in Phase I, it would be really hard to determine if the requirements were met when all players were in Phase I.
+Simultaneous play is intended to be played per phase, not uninterrupted for the entire round. The check for card requirements (i.e. minimum Oxygen) is determined at the beginning of the phase it was played. If some players have already moved to Phase V, while you're still playing a card in Phase I, it would be really hard to determine if the requirements were met when all players were in Phase I.
 The rulebook states that all players mu complete a phase before proceeding to the next phase that was played. So everyone must complete phase 1 before moving on to phase 2
 
 [worms-card-effect](https://boardgamegeek.com/thread/2698410/worms-card-effect)
