@@ -461,9 +461,9 @@ It would not trigger for standard actions.
 [anti-grav-technology-including-itself](https://boardgamegeek.com/thread/2696102/anti-grav-technology-including-itself)
 
 > Most cards which give rewards based on tags or playing cards explicitly say either "including this" or "excluding this". However, Anti-Gravity Technology just says:
-Quote:
-Effect: When you play a card, gain 2 heat and 2 plants.
-Does it give you 2 heat and plants for itself as well? Or only future cards played?
+> Quote:
+> Effect: When you play a card, gain 2 heat and 2 plants.
+> Does it give you 2 heat and plants for itself as well? Or only future cards played?
 
 In general, effects of cards come into play when the card is already played. So in this case that's too late to trigger from the effect of playing the card itself. Only future cards.
 
@@ -472,10 +472,6 @@ In general, effects of cards come into play when the card is already played. So 
 [can-you-add-microbes-to-any-card-or-just-cards-tha](https://boardgamegeek.com/thread/2752117/can-you-add-microbes-to-any-card-or-just-cards-tha)
 
 [are-forest-tiles-limited](https://boardgamegeek.com/thread/3082954/are-forest-tiles-limited)
-
-> Are forest tiles limited?
-
-the only limit is your cards letting you get forest tiles.
 
 [moving-up-the-blue-track](https://boardgamegeek.com/thread/2705914/moving-up-the-blue-track)
 
@@ -494,17 +490,8 @@ Rulebook page 7, note in the bottom left: "NOTE: Some production cards increase 
 
 > When a condition reaches maximum e.g. oxygen or temperature, you can increase it more than max and gain vp but only in that specific round, you cannot do it on the next one right?
 
-In that phase, not that round.
+The distinction between round and phase in this game is key. Every round starts with the planning step, where each player chooses a phase card to be played that round. When a parameter reaches the maximum, players can ignore that and keep on raising it only during that specific phase, not round. 
 
-> The same happens when planting forests but you can continue gaining forest tokens correct?
-The same thing work with cards also? Some cards have some action effects that raise temperature or heat so I guess these cannot be used also?
-
-Correct
-
-> I am asking because I had the following combo, every time that I raised the temperature I could put an animal on a card and that would be 1 vp at the end of the game.
-But when we reached max temperature I stopped using the card. Was I correct?
-
-Correct. Once that phase ends you can no longer increase the temperature.
 
 [convert-mc-into-standard-actions-end-of-the-game](https://boardgamegeek.com/thread/3353113/convert-mc-into-standard-actions-end-of-the-game)
 
