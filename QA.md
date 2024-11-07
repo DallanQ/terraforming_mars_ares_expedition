@@ -398,10 +398,13 @@ They keep counting until the end of the game. Or until an effect removes them fr
 
 [do-you-play-simultaneously-per-phase-or-per-round](https://boardgamegeek.com/thread/2686237/do-you-play-simultaneously-per-phase-or-per-round)
 
-> How do you proceed after Phase cards have been revealed? A. Do players proceed simultaneously from Phase to Phase, waiting at the end of each phase for everybody to finish before progressing to the next? Or B. Do players proceed simultaneously uninterrupted until they finish the entire round?
+> How do you proceed after Phase cards have been revealed?
 
-Simultaneous play is intended to be played per phase, not uninterrupted for the entire round. The check for card requirements (i.e. minimum Oxygen) is determined at the beginning of the phase it was played. If some players have already moved to Phase V, while you're still playing a card in Phase I, it would be really hard to determine if the requirements were met when all players were in Phase I.
-The rulebook states that all players mu complete a phase before proceeding to the next phase that was played. So everyone must complete phase 1 before moving on to phase 2
+> A. Do players proceed simultaneously from Phase to Phase, waiting at the end of each phase for everybody to finish before progressing to the next? Or
+
+> B. Do players proceed simultaneously uninterrupted until they finish the entire round?
+
+Simultaneous play is intended to be played per phase, not uninterrupted for the entire round. The check for card requirements (i.e. minimum Oxygen) is determined at the beginning of the phase it was played. If some players have already moved to Phase V, while you're still playing a card in Phase I, it would be really hard to determine if the requirements were met when all players were in Phase I. The rulebook states that all players must complete a phase before proceeding to the next phase that was played. So everyone must complete phase 1 before moving on to phase 2
 
 [worms-card-effect](https://boardgamegeek.com/thread/2698410/worms-card-effect)
 
@@ -411,7 +414,7 @@ The rulebook states that all players mu complete a phase before proceeding to th
 
 > When do effect cards trigger? Before during or after you play a card?
 
-After. That being said, cost reductions apply to the playing of the card.
+Cards effect trigger after you play a card. That being said, cost reductions apply to the playing of the card.
 
 [game-end-action-phase](https://boardgamegeek.com/thread/2686777/game-end-action-phase)
 
@@ -421,7 +424,7 @@ After. That being said, cost reductions apply to the playing of the card.
 
 [solo-mode-dummy-hand-clarification](https://boardgamegeek.com/thread/3334078/solo-mode-dummy-hand-clarification)
 
-> I have a question regarding the Solo mode: what happen if in the planning step I choose my phase card and I reveal the same phase card from the dummy hand? I will just play a single phase for that round?
+> In Solo mode: what happens if in the planning step I choose my phase card and I reveal the same phase card from the dummy's hand? will i just play a single phase for that round?
 
 Yes, just like with two players.
 
