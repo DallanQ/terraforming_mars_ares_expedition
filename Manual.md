@@ -87,7 +87,7 @@ C. Red cards have effects that happen immediately and do not provide any additio
 
 These cards represent the corporation each player is acting as. Corporation cards have five parts:
 
-> Image of an interplanetary card with the name at the top, a tag at the upper left corner, logo at the top middle below the name, starting resources below the logo and beside the name, and the effect/action at the bottom of the card.
+> Image of an interplanetary cinematics card with the name at the top, a tag at the upper left corner, logo at the top middle below the name, starting resources below the logo and beside the name, and the effect/action at the bottom of the card.
 
 1. **NAME**
 
@@ -191,7 +191,7 @@ During setup, place these on the board with the orange side faceup. When you fli
 
 1. Set the game board in the middle of the table. 
 
-> An image of the game board positioned in the middle of the play area, with the two clear cubes placed at the temperature and oxygen tracks, 6 ocean tiles placed at the center of the board with their blue sides faced downward, the five phase tracking tokens arranged at the right side of the board in decending order with their number side faced up, the copper, silver and gold cubes, and forest victory point tokens below the lower right side of the board, and a player's player board with 6 cubes placed at the 6 production tracks.
+> An image of the game board positioned in the middle of the play area, with the two clear cubes placed at the temperature and oxygen tracks, 9 ocean tiles placed at the center of the board with their blue sides faced downward, the five phase tracking tokens arranged at the right side of the board in decending order with their number side faced up, the copper, silver and gold cubes, and forest victory point tokens below the lower right side of the board, and a player's player board with 6 cubes placed at the 6 production tracks.
 
 2. Set the phase tracking tokens next to the game board with the closed door side up.
 
@@ -246,8 +246,7 @@ In each step and phase, players play simultaneously. Not all phases will happen 
 
 Each player simultaneously chooses a phase card from their hand and places it facedown.
 
-Starting with the second round, players will place this card at a 90° angle on top of the last phase card they chose. Players are not allowed to pick the same phase two rounds in a row. After revealing the played phase card, players will return the phase card they chose from the 
- previous round to their hand.
+Starting with the second round, players will place this card at a 90° angle on top of the last phase card they chose. Players are not allowed to pick the same phase two rounds in a row. After revealing the played phase card, players will return the phase card they chose from the previous round to their hand.
 
 Once all players have done this, the chosen phase cards are revealed. These cards determine which phases are resolved this round. For each phase that was chosen for this round, flip the associated phase tracking token faceup so that the name of the phase is showing.
 
