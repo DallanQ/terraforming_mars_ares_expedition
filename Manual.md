@@ -49,7 +49,7 @@ The oxygen and temperature tracks are each divided into four colors: purple, red
 
 Project cards are the backbone to building a powerful corporation in order to win the game. It is important to note that at any time you may discard a project card in your hand to gain 3 MC. Project cards have the following pieces of information on them:
 
-> image of cards with the name at the top, the cost at the upper-left corner, the requirement below the cost on the left, the tags between the requirement and anctivity phase at the left, the effect, production, capability and action at the bottom left, the ability at the bottom right, the vp down the right side and the card number underneath the ability.
+> image of cards with the name at the top, the cost at the upper-left corner, the requirement below the cost on the left, the tags between the requirement and active phase at the left, the effect, production, capability, and action at the bottom left, the ability at the bottom right, the vp down the right side and the card number underneath the ability.
 
 1. **NAME**
   
