@@ -653,7 +653,7 @@ Solo mode can be a great way to learn the game, but it is not easy to win if you
 
 - **EXPERT MODE**: No bonuses are given.
 
-### END OF GAME 
+### END OF GAME (Page 19)
 
 Once five full dummy hands have been played (25 rounds), the game ends. If Mars is fully terraformed, you win. Otherwise, you lose. Finally, you score VP, attempting to achieve as high a score as possible.
 
