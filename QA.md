@@ -4,20 +4,67 @@
 
 No, you don't. You just play that phase once and you will have the action bonus for playing the card for it. It would just be like if you were playing with another player and both played the same action.
 
+----
+Page 19
+
+The goal of the solo game is to fully terraform Mars before time runs out.
+
+All the rules of the game are the same with the following exceptions:
+
+1. Set aside an additional set of five phase cards as a dummy hand. Shuffle that set of cards facedown.
+
+2. Place a player cube of a color you are not using on the 1 on the TR track.
+
+. Choose a difficulty level: Novice, Advanced, or Expert.
+
+----
+Page 10
+
+Each player simultaneously chooses a phase card from their hand and places it facedown.
+
+Starting with the second round, players will place this card at a 90° angle on top of the last phase card they chose. Players are not allowed to pick the same phase two rounds in a row. After revealing the played phase card, players will return the phase card they chose from the previous round to their hand.
+
+Once all players have done this, the chosen phase cards are revealed. These cards determine which phases are resolved this round. For each phase that was chosen for this round, flip the associated phase tracking token faceup so that the name of the phase is showing.
+
+A player is not allowed to pick the same phase two rounds in a row
+
+----
+Page 11
+
+Each player resolves each of the chosen phases (and only the chosen phases) once in this round. Players resolve each other chosen phase simultaneously. Once all players have finished with a phase, they all move onto the next chosen phase.
+
+If multiple players choose the same phase, that phase is resolved only once. If a phase is not chosen, each player skips that phase this round.
+
+
 [first-solo-play-a-few-clarifications](https://boardgamegeek.com/thread/2721839/first-solo-play-a-few-clarifications)
 
 > In Solo mode in Novice mode at what point do you raise the oxygen or temperature 2 steps when the AI uses all 5 phase cards?  Is it as soon as the AI plays that last phase card (so before the phases actually play out) or at the end of that round?
 
 You raise oxygen or temperature right after you move the tracker cube one spot up, after the round of the 5th card. This means: a) you fully play both phases you and the AI played, and once you start to prepare the next round (shuffle AI cards and move the tracker) you will raise one of the tracks; b) you will do this a total of 4 times (in novice means you do a total of 8 raises, 4x2)
 
+----
+Page 19
+
+In a lower difficulty setting, the terraforming parameters will advance each time the dummy player's cube moves (4 times per game), to help you reach your terraforming goals. 
+
 > In Solo mode in Novice mode do you have to raise either oxygen or temperature 2 steps and can’t raise each once instead?
 
 Quoting: "Increase oxygen OR temperature 2 steps after advancing the dummy player's cube." 
 The rules specifically state that you can raise one or the other and not both.
 
+----
+Page 19
+
+NOVICE MODE: Increase oxygen or temperature 2 steps after advancing the dummy player's cube.
+
 > The rules say the solo game ends when the AI has played its final phase card but does it actually mean at the end of that round? 
 
 Yes, at the end of the round.
+
+----
+Page 19
+
+Once five full dummy hands have been played (25 rounds), the game ends. If Mars is fully terraformed, you win. Otherwise, you lose. Finally, you score VP, attempting to achieve as high a score as possible.
 
 [exchanging-cards-for-mc](https://boardgamegeek.com/thread/2704875/exchanging-cards-for-mc)
 
@@ -25,21 +72,36 @@ Yes, at the end of the round.
 
 Yes, you can do it at any time
 
-> When I exchange cards to buy standard projects, does that exchange include an Action phase?
+----
+page 5
 
-Yes, If the game ends during the Action phase, players will likely want to convert all of their cards in hand and MC into standard actions that gain TR.
+Project cards are the backbone to building a powerful corporation in order to win the game. It is important to note that at any time you may discard a project card in your hand to gain 3 MC.
 
-[mining-guild-card-214-inquiry](https://boardgamegeek.com/thread/2714723/mining-guild-card-214-inquiry)
+----
+Page 11
 
-> The effect on the card reads, "Each time you play steel production..." How do folks interpret this card? a. Whenever you build another green card which has steel production in the orange box OR b. Whenever you build something requiring steel production (i.e. another card)
+DEVELOPMENT PHASE: During this phase, each player may play one green project card from their hand by paying its cost. See Playing Project Cards on page 12. Bonus: If you chose this phase, the cost of the card you play this phase is reduced by 3 MC.
 
-"Whenever you build another green card which has steel production in the orange box". There is only one card in the game that requires steel production. It has a I because that is the only phase that will give you cards that will give you steel production.
+After playing a green card, make sure to adjust the corresponding capability or production track on your player board.
+
+Reminder: Players may discard project cards in hand at any time to gain 3 MC. This can be done for any reason. Whenever a player discards a card for any reason, it is discarded facedown to the project card discard pile.
 
 [phase-in-a-row](https://boardgamegeek.com/thread/2748840/phase-in-a-row)
 
 > In solo mode, say i played production in the last phase of one round, i go to end step and then start a new round. Can i play the production phase now as it is a new round… how do you guys play it for solo?
 
 You can't play production two phases in a roll.
+
+----
+Page 10
+
+Each player simultaneously chooses a phase card from their hand and places it facedown.
+
+Starting with the second round, players will place this card at a 90° angle on top of the last phase card they chose. Players are not allowed to pick the same phase two rounds in a row. After revealing the played phase card, players will return the phase card they chose from the previous round to their hand.
+
+Once all players have done this, the chosen phase cards are revealed. These cards determine which phases are resolved this round. For each phase that was chosen for this round, flip the associated phase tracking token faceup so that the name of the phase is showing.
+
+A player is not allowed to pick the same phase two rounds in a row
 
 [basic-question-about-productionresource-tracking-f](https://boardgamegeek.com/thread/2850193/basic-question-about-productionresource-tracking-f)
 
