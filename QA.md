@@ -15,7 +15,7 @@ All the rules of the game are the same with the following exceptions:
 
 2. Place a player cube of a color you are not using on the 1 on the TR track.
 
-. Choose a difficulty level: Novice, Advanced, or Expert.
+3. Choose a difficulty level: Novice, Advanced, or Expert.
 
 ----
 Page 10
