@@ -171,7 +171,7 @@ If it is the oceans that hit their max, then everyone gets the reward shown on t
 ----
 Page 14
 
-Each player may resolve the "Action:" ability on each of their cards in play once during this phase. Each player may resolve any number of the standard actions any number of times. Bonus: If you chose this phase, you may resolve the "Action:" ability on one of your cards in play an additional time.
+During the phase in which a global parameter reaches it's maximum (temperature at +8°C, oxygen at 14%, or 9 ocean tiles flipped), all players can continue to take actions or play cards to increase that parameter. They will receive all of the benefits, such as forest VP and TR. During the phase that the last ocean tile is flipped, any player who continues to take actions or play cards to flip oceans will gain the reward on the last ocean tile that was flipped in addition to the TR.
 
 [action-phase](https://boardgamegeek.com/thread/2681458/action-phase)
 
