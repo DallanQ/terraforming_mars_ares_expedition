@@ -109,11 +109,19 @@ A player is not allowed to pick the same phase two rounds in a row
 
 The tracks on the left should correspond to the number of relevant production icons in your played projects. They track the rate at which you produce resources. They are generally advanced as a result of a Development or Construction phase. The bins on the right contain your current actual resources as a result of accumulated production (minus spending). They increase during a Production phase and they are spent during an Action phase.
 
-[towing-a-comet](https://boardgamegeek.com/thread/2772968/towing-a-comet)
+----
+Page 6
 
-[anit-gravity-technology-effect-op](https://boardgamegeek.com/thread/2724596/anit-gravity-technology-effect-op)
+The player board keeps track of your current resources and production. Resource cubes are placed in their respective boxes, and player markers are used on the production tracks.
 
-[mode-solo-compatible-avec-les-extensions-fondation](https://boardgamegeek.com/thread/3224666/mode-solo-compatible-avec-les-extensions-fondation)
+PRODUCTION TRACKS - When you gain production of a resource, move the corresponding cube on its track. Add a second cube to the right column if needed. There are four types of production: (a.) MC, (b.) card, (c.) heat, and (d.) plant. The production tracks show how much of each resource you will gain during the production phase.
+
+Example: If you gain two heat production on the first turn, move your player cube on the heat production track from 0 to 2.
+
+RESOURCES - Whenever you gain (a.) MC, (b.) heat, or (c.) plants, place the copper, silver, and gold cubes into the section corresponding to the resource gained. The copper cubes are worth 1, the silver 5, and the gold 10.
+Example: If you produce 6 plants, place 1 copper cube and 1 silver cube into the green resource section to the right of the plant production track on your player board.
+
+CAPABILITIES - When you gain (a.) steel or (b.) titanium capabilities, move the corresponding cube on its track. Add a second cube to the right column if needed.
 
 [how-do-tags-work](https://boardgamegeek.com/thread/2859037/how-do-tags-work)
 
@@ -122,11 +130,36 @@ The tracks on the left should correspond to the number of relevant production ic
 It should be activated per tag, so yes the corporation card should start with two animals on it. A card can trigger the same effect multiple times.
 See page 5 step 6 of the rulebook. So if you play a card with a plant and animal tag, and you have a card that triggers when you play either of those two tags, it will trigger twice
 
+----
+Page 5
+
+TAGS - Cards can have up to three tags. Tags have no inherent value but are referenced in the ability section of many cards.
+
+EFFECT (Purple) - This appears only on blue cards and shows icons representing an effect which triggers when certain criteria are met. If an effect's condition is met multiple times when a card is played, then resolve the effect multiple times.
+
 [atmosphere-filtering-do-you-gain-a-tr-with-the-rai](https://boardgamegeek.com/thread/3031362/atmosphere-filtering-do-you-gain-a-tr-with-the-rai)
 
 > The card Atmosphere filtering #67, says required 2 science, raise the oxygen 1 step. Do I gain a TR when I raise this oxygen 1 step?
 
 Yes. Whenever you increase any of the three parameters by any means, you increase your TR respectively unless the card says otherwise.
+
+----
+Page 2
+
+Players raise their TR by increasing global parameters: oceans, oxygen, and temperature. TR also determines each corporation’s basic income, and, at the end of the game TR counts as VP. Additional VP and production capabilities are awarded for building project cards and other actions taken during the game.
+
+----
+Page 14
+
+Reminder: Whenever you raise oxygen, raise temperature, or flip an ocean, you gain 1 TR. This happens for each step you raise those parameters.
+
+During the phase in which a global parameter reaches it's maximum (temperature at +8°C, oxygen at 14%, or 9 ocean tiles flipped), all players can continue to take actions or play cards to increase that parameter. They will receive all of the benefits, such as forest VP and TR. During the phase that the last ocean tile is flipped, any player who continues to take actions or play cards to flip oceans will gain the reward on the last ocean tile that was flipped in addition to the TR.
+
+After the phase in which the parameter reached it's maximum, players can no longer gain rewards for increasing that parameter.
+
+Players may continue to gain forest VP tokens for building forests after the phase when oxygen reaches 14%, but won't gain TR for increasing oxygen when they do.
+
+Important Rule: At the end of the action phase, if you are able to spend heat or plants for a standard action, you must do so unless the associated terraforming parameter has already been raised to its maximum.
 
 [order-of-turn-during-action-phase](https://boardgamegeek.com/thread/2831785/order-of-turn-during-action-phase)
 
@@ -135,19 +168,10 @@ Yes. Whenever you increase any of the three parameters by any means, you increas
 When you raise any of the global parameters to its maximum on a single phase, everyone continues to get the benefit. There is no "first come" basis because of the simultaneous nature of this version of the game. So when it maxes out, during the same phase, everyone can continue to get the benefit. Then starting the next phase, it is no longer available.
 If it is the oceans that hit their max, then everyone gets the reward shown on the last tile flipped.
 
-[adding-resources-to-other-players-in-coop](https://boardgamegeek.com/thread/2703027/adding-resources-to-other-players-in-coop)
+----
+Page 14
 
-[when-using-progressive-policies-it-says-spend-10-m](https://boardgamegeek.com/thread/3079604/when-using-progressive-policies-it-says-spend-10-m)
-
-> When using Progressive Policies, it says "Spend 10 MC to raise the oxygen one step..." - does that mean I get a forest token too?
-
-No. Not unless it says so. Trees produce O2, not the other way around.
-
-[getting-mc-for-discarding-cards-in-research-phase](https://boardgamegeek.com/thread/2757082/getting-mc-for-discarding-cards-in-research-phase)
-
-> The rulebook specifically states that if for any reason a player discards a card he can earn 3 MC/card discarded. Does that mean that the 1 card (or 3 cards if you have the phase bonus) discarded during the research phase automatically earns you MC?
-
-No. If an in-game effect, such as a project effect or the research phase, has you discarding a card then you don't get 3 MC for that. You only get the 3 MC if you choose to discard a card outside of such effects.
+Each player may resolve the "Action:" ability on each of their cards in play once during this phase. Each player may resolve any number of the standard actions any number of times. Bonus: If you chose this phase, you may resolve the "Action:" ability on one of your cards in play an additional time.
 
 [action-phase](https://boardgamegeek.com/thread/2681458/action-phase)
 
@@ -155,15 +179,56 @@ No. If an in-game effect, such as a project effect or the research phase, has yo
 
 The action card states that any actions from cards you have played can each be activated once. The bonus is that one of your cards with an action may be activated a second time. The bonus has to do with the cards, not the standard actions. The standard actions are unlimited, bonus, or otherwise.
 
-[question-about-cards-like-solarpunk-and-volcanic-p](https://boardgamegeek.com/thread/2684673/question-about-cards-like-solarpunk-and-volcanic-p)
+----
+Page 14
 
-[one-clarification-with-the-action-phase-maybe-not](https://boardgamegeek.com/thread/2718279/one-clarification-with-the-action-phase-maybe-not)
+Each player may resolve the "Action:" ability on each of their cards in play once during this phase. Each player may resolve any number of the standard actions any number of times. Bonus: If you chose this phase, you may resolve the "Action:" ability on one of your cards in play an additional time.
+
+----
+Page 20
+
+During this step, players resolve the phases that were chosen during the planning step. There are no turns, so each player plays each phase at the same time. All players may participate in the selected phases, but players only receive bonuses for the phase they selected. Bonuses are printed in the bottom section of the phase cards. The chosen phases are always resolved in the following order:
+
+III. ACTION PHASE
+
+- Each player may resolve the “Action:” ability on each of their blue cards in play once.
 
 [are-steel-and-titanium-spend-when-used-to-lower-th](https://boardgamegeek.com/thread/2812742/are-steel-and-titanium-spend-when-used-to-lower-th)
 
 > In the original Terraforming Mars game you can spend Steel or Titanium to lower the cost for specific cards. Within the documentation of The Ares Expedition I found that having Steel and Titanium lowers the cost of specific cards, but I could not find that you have to spend the resources. E.g. if i have two steel to lower the cost of (mining) cards, do I spend the two steels, or do I keep them after lowering the cost of the card?
  
 You don't have to spend them. Ares Expedition gets rid of the concept of steel and titanium as resources. Instead having steel and titanium is just a discount on cards with the relevant tags.
+
+----
+Page 5
+
+B. Green cards have resources that are gained in the production phase or have steel/titanium capabilities which are used to reduce the cost of playing certain cards. See page 12 for more info on steel and titanium.
+
+----
+Page 12
+
+The cost of Project cards with a building tag (an icon of a building tag), regardless of color, is reduced by 2 MC for each steel (an image of steel) you have.
+
+The cost of Project cards with a space tag (an icon of a space tag), regardless of color, is reduced by 3 MC for each titanium (an image of titanium) you have.
+
+The cost to play a card cannot be reduced below zero.
+
+You may play cards that raise parameters beyond their maximums or add special resources when you don't have a card to add them to. You will simply not receive the benefits of those effects.
+
+Example: Bob wants to play Microprocessors, which is a green card that costs 17 MC. Microprocessors has a building tag (an icon of a building tag). (an icon of number 1) Bob has two steel, so his cost to play cards with building tags is reduced by 4 MC. (an icon of number 2) Bob chose the development phase this turn, so his cost to play this green card is reduced by 3 MC. Thus, Bob's cost to play Microprocessors is 17-4-3=10.
+
+(an icon of number 3) Bob has 4 MC cubes which he can use to pay for the card, but that leaves Bob 6 MC short of playing it. Bob can discard two project cards from his hand at a rate of 3 MC each to pay for the remaining 6 MC. (an icon of number 4) Bob chooses to discard two cards and spends his 4 MC cubes, and places Microprocessors into play.
+
+(an icon of number 5) Bob resolves the immediate effect of the card which is "Draw two cards. Then, discard a card." Finally, Bob is done with the development phase.
+
+----
+Page 18
+
+Some green cards give a player steel and titanium capabilities. They reduce the cost of playing project cards. The proper building materials are essential when starting an expensive project!
+
+STEEl: This represents building materials used on Mars. Each steel capability lowers the cost of playing project cards with a building tag (image of a building tag) By 2 Mc
+
+TITANIUM: This represents building materials used in space. Each titanium capability lowers the cost of playing project cards with a space tag (image of a space tag) By 3 Mc.
 
 [livestock-question-on-adding-animals](https://boardgamegeek.com/thread/3055249/livestock-question-on-adding-animals)
 
