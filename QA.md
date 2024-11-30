@@ -215,6 +215,9 @@ The cost to play a card cannot be reduced below zero.
 
 You may play cards that raise parameters beyond their maximums or add special resources when you don't have a card to add them to. You will simply not receive the benefits of those effects.
 
+----
+Page 13
+
 Example: Bob wants to play Microprocessors, which is a green card that costs 17 MC. Microprocessors has a building tag (an icon of a building tag). (an icon of number 1) Bob has two steel, so his cost to play cards with building tags is reduced by 4 MC. (an icon of number 2) Bob chose the development phase this turn, so his cost to play this green card is reduced by 3 MC. Thus, Bob's cost to play Microprocessors is 17-4-3=10.
 
 (an icon of number 3) Bob has 4 MC cubes which he can use to pay for the card, but that leaves Bob 6 MC short of playing it. Bob can discard two project cards from his hand at a rate of 3 MC each to pay for the remaining 6 MC. (an icon of number 4) Bob chooses to discard two cards and spends his 4 MC cubes, and places Microprocessors into play.
