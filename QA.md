@@ -258,8 +258,6 @@ The ruling on cards like this has always been "per tag."
 
 Same as the multi-player game, you play that phase once.
 
-[mining-guild-question](https://boardgamegeek.com/thread/3045518/mining-guild-question)
-
 [upgraded-production-card](https://boardgamegeek.com/thread/3054384/upgraded-production-card)
 
 > With the Upgraded Production card that gives plus one MC, and allows you to activate the production of one green card once, can you activate the production box of a card that gives you one MC for every Science tag?
