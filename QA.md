@@ -245,16 +245,12 @@ You raised the temperature twice, that's 2 animals.
 
 Yeah, in this game tags on Events count for things that count tags.
 
-[super-unclear-rulesconfusion](https://boardgamegeek.com/thread/2690458/super-unclear-rulesconfusion)
-
 [question-about-anaerobic-microorganisms](https://boardgamegeek.com/thread/2885572/question-about-anaerobic-microorganisms)
 
 > Anaerobic Microorganisms says - Effect: When you play a card, you may remove 2 microbes from this card to pay 10 MC less for that card.
 > Effect: When you play an [ANIMAL], [MICROBE], or [PLANT], including this, add a microbe to this card. If played a card with a [MICROBE] and a [PLANT] tag. Do I add 1 or 2 microbes to Anaerobic Microorganisms? i.e. do you add microbes per card or per tag?
 
 The ruling on cards like this has always been "per tag." 
-
-[general-question-to-special-resources-on-cards-her](https://boardgamegeek.com/thread/3119792/general-question-to-special-resources-on-cards-her)
 
 [pashes-step-in-solo-mode](https://boardgamegeek.com/thread/2708546/pashes-step-in-solo-mode)
 
