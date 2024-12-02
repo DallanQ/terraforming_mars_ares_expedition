@@ -441,8 +441,6 @@ The cost of flipping an ocean tile using the card's action (so not flipping ocea
 
 Your events.
 
-[how-do-you-pay-for-special-resources](https://boardgamegeek.com/thread/3114054/how-do-you-pay-for-special-resources)
-
 [effects-stating-when-you-play-does-it-include-acti](https://boardgamegeek.com/thread/2777197/effects-stating-when-you-play-does-it-include-acti)
 
 > I have some cards that say "when you play a card with symbol X then get a Y". Does this only trigger when I purchase a card from my hand and play it on table. Or does playing the action on cards already in my tablou with those symbols count?
@@ -450,6 +448,10 @@ Your events.
 The symbols you're referring to are called "tags". "Play" means a card moving from your hand to your tableau.
 
 [red-event-cards](https://boardgamegeek.com/thread/2700686/red-event-cards)
+
+> Are red event cards played faces down like in normal terraforming Mars or are they face up?
+
+Under the rules for the Construction Phase, look at the Tip to save table space: "Play red cards in either row, you can overlap them so just the tags are showing."
 
 [corporation-card-effectsactions](https://boardgamegeek.com/thread/2683428/corporation-card-effectsactions)
 
@@ -481,18 +483,12 @@ Whatever order you want.
 
 Whenever you spend MC you may spend heat as MC. This does not let you freely convert heat to MC.
 
-[crisis-mode-detriment-token](https://boardgamegeek.com/thread/3029837/crisis-mode-detriment-token)
-
-[2-players-awards-scoring-upgrading-phase-cards-in](https://boardgamegeek.com/thread/3079814/2-players-awards-scoring-upgrading-phase-cards-in)
-
 [construction-phase-card-question](https://boardgamegeek.com/thread/3144737/construction-phase-card-question)
 
 > If I chose to play this phase care and I did not play a card with it, can I play the card that I drew with the Bonus "draw a card?"
 
 You can play the phase and the bonus in any order you wish. So yes, you can first draw the bonus card and then play any one card (including the one you just drew).
 
-[nitrate-reducing-bacteria-question](https://boardgamegeek.com/thread/2713208/nitrate-reducing-bacteria-question)
-*
 [research-discard](https://boardgamegeek.com/thread/2686174/research-discard)
 
 > In Research phase, the way the action is written it appears you draw 2 cards and discard one of the 2 you draw or more with the bonus. Or is it you're allowed to add any drawn cards to your hand and discard any of them you want?
@@ -516,21 +512,11 @@ They keep counting until the end of the game. Or until an effect removes them fr
 
 Simultaneous play is intended to be played per phase, not uninterrupted for the entire round. The check for card requirements (i.e. minimum Oxygen) is determined at the beginning of the phase it was played. If some players have already moved to Phase V, while you're still playing a card in Phase I, it would be really hard to determine if the requirements were met when all players were in Phase I. The rulebook states that all players must complete a phase before proceeding to the next phase that was played. So everyone must complete phase 1 before moving on to phase 2
 
-[worms-card-effect](https://boardgamegeek.com/thread/2698410/worms-card-effect)
-
-[card-effect-interplanatory-relations](https://boardgamegeek.com/thread/2765900/card-effect-interplanatory-relations)
-
 [when-do-effect-cards-trigger](https://boardgamegeek.com/thread/2685173/when-do-effect-cards-trigger)
 
 > When do effect cards trigger? Before during or after you play a card?
 
 Cards effect trigger after you play a card. That being said, cost reductions apply to the playing of the card.
-
-[game-end-action-phase](https://boardgamegeek.com/thread/2686777/game-end-action-phase)
-
-[can-you-upgrade-upgraded-cards-or-can-you-get-more](https://boardgamegeek.com/thread/3145697/can-you-upgrade-upgraded-cards-or-can-you-get-more)
-
-[card-using-4-heat-to-increase-oxygen-one-step](https://boardgamegeek.com/thread/3213687/card-using-4-heat-to-increase-oxygen-one-step)
 
 [solo-mode-dummy-hand-clarification](https://boardgamegeek.com/thread/3334078/solo-mode-dummy-hand-clarification)
 
