@@ -264,12 +264,6 @@ Same as the multi-player game, you play that phase once.
 
 Lightning Harvest? Yes, why not. It is a green card. You can duplicate the effect once. The effect says to collect 1 MC per Science tag.
 
-[the-3-expansions-any-special-solo-mode-rules](https://boardgamegeek.com/thread/3073704/the-3-expansions-any-special-solo-mode-rules)
-
-[nitrogen-rich-asteroid](https://boardgamegeek.com/thread/2699981/nitrogen-rich-asteroid)
-
-[quantum-extractor-mispring](https://boardgamegeek.com/thread/2741699/quantum-extractor-mispring)
-
 [same-phase-effects-trigger](https://boardgamegeek.com/thread/2688844/same-phase-effects-trigger)
 
 > During Construction, can I trigger the effect of the first card played with the playing of the second card in the same turn?
@@ -291,8 +285,6 @@ Each time you play a green card with steel production on it.
 > If there is multiple steel production on the card, would it be only one or multiple TR?
 
 Multiple, one TR per steel increase.
-
-[interns-draw-or-draw-and-keep](https://boardgamegeek.com/thread/3052304/interns-draw-or-draw-and-keep)
 
 [when-to-track-and-when-to-gain-resources](https://boardgamegeek.com/thread/3035612/when-to-track-and-when-to-gain-resources)
 
@@ -334,8 +326,6 @@ Yes. The effect triggers whenever the condition is met, so if the condition is m
 
 That's just simply a reminder that you can discard cards for 3MC each. This isn't a one off, it can happen multiple times in a row.
 
-[green-cards-ability-after-they-are-played](https://boardgamegeek.com/thread/2698533/green-cards-ability-after-they-are-played)
-
 [mars-university-when-you-discard-do-you-gain-3mc](https://boardgamegeek.com/thread/2860583/mars-university-when-you-discard-do-you-gain-3mc)
 
 > Also with Research, when you discard do you gain 3mc?
@@ -348,8 +338,6 @@ No, as part of Research you do not gain 3 MC for discarding any cards
 
 We discard the cards.
 
-[sequence-of-effects-vs-requirements](https://boardgamegeek.com/thread/2893539/sequence-of-effects-vs-requirements)
-
 [simultaneous-actions-when-nearing-the-end-of-a-con](https://boardgamegeek.com/thread/2695602/simultaneous-actions-when-nearing-the-end-of-a-con)
 
 > Oxygen is 1 step from being maximized. Action phase is selected by two players, both have enough plants to raise oxygen/TR by one. What happens then?
@@ -357,6 +345,10 @@ We discard the cards.
 Both get to raise it simultaneously, and both get a Greenery tile, and they both get the TR. If they want to pay for more oxygen raises this Action phase, they can get the TR for it. After this phase is over, the Oxygen is done, and nobody can raise it for TR. They can still do any action that would raise the oxygen, but they would not get the TR. So if you get enough plants on a later action phase (before both temp and Oceans are done) you can still get a Greenery tile for it's endgame point, but no TR. Any other action that raises Oxygen as an effect can be activated similarly, without any TR.
 
 [all-players-selecting-the-same-phase-card-variant](https://boardgamegeek.com/thread/2851691/all-players-selecting-the-same-phase-card-variant)
+
+> During one of our last games a player made the comment after all 4 of us had selected to play the same phase card that there should be a Bonus for doing so. What are your thoughts on this?
+
+You already get a bonus for selecting any given phase. I don't think another bonus is needed.
 
 [end-of-game-question-mp-and-solo](https://boardgamegeek.com/thread/2905352/end-of-game-question-mp-and-solo)
 
@@ -394,8 +386,6 @@ So yes, draw two cards.
 In this case, yes, with Mining Guild you start with steel capacity on 1. From the rulebook, NOTE: You will always be able to calculate your current production and capabilities by looking at your cards in play. The player board is just more convenient. 
 The wording on the cards is designed so you don't need the production tracks on the player board to play. Your production tracks simply say what your cards are already saying.
 
-[solo-when-dummy-hand-reveals-the-same-phase-you-ch](https://boardgamegeek.com/thread/2687174/solo-when-dummy-hand-reveals-the-same-phase-you-ch)
-
 [add-animal-to-another-card-add-microbe](https://boardgamegeek.com/thread/2687086/add-animal-to-another-card-add-microbe)
 
 > How do you know if a card can accept an animal, microbe, etc onto it? And I assume this is tracked with cubes as normal.
@@ -431,8 +421,6 @@ Bonus: If you chose this phase, you can either: Draw a card before or after play
 
 No.
 
-[production](https://boardgamegeek.com/thread/2831869/production)
-
 [who-gets-the-move](https://boardgamegeek.com/thread/2706137/who-gets-the-move)
 
 > I played the Action Card (III) and hubby played Production (IV). I purchased the last 3 Oceans and finish the game, but hubby stated he wanted an Ocean. We couldn't find anywhere in the instructions as to who would get the move. I let him take an Ocean and do his thing with his Ocean card; I purchased the remaining 2 oceans to finish the game. I lost by 4 points. Any thoughts on how to play when simultaneously doesn't work? Would it come down to whoever played the card?
@@ -446,8 +434,6 @@ During the phase in which a global parameter reaches its maximum (temperature at
 > Volcanic Pools (card # 62) text says: "Action: Spend 12 MC to flip an ocean tile. Reduce this by 1 MC per power tag you have." Do I reduce the cost of flipping an ocean tile, or do I reduce the cost of playing the card?
 
 The cost of flipping an ocean tile using the card's action (so not flipping ocean tiles through standard actions, and not playing the card).
-
-[tags-in-discovery-with-certain-effects-on-drawing](https://boardgamegeek.com/thread/3146560/tags-in-discovery-with-certain-effects-on-drawing)
 
 [red-card-requirements](https://boardgamegeek.com/thread/2717186/red-card-requirements)
 
