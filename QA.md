@@ -530,10 +530,6 @@ Yes, just like with two players.
 
 You only get a forest token when converting eight plants, or resolving some other card effect that explicitly says you get a forest token. Just raising the oxygen level isn't necessarily the same thing as planting trees — in particular Steelworks does not give you a forest token.
 
-[solo-rules-end-of-game-scoring-and-advanced-rule](https://boardgamegeek.com/thread/2919373/solo-rules-end-of-game-scoring-and-advanced-rule)
-
-[clarification-regarding-oxygentemperature-modifier](https://boardgamegeek.com/thread/2687450/clarification-regarding-oxygentemperature-modifier)
-
 [blocking-benefits-with-maximum-parameters-between](https://boardgamegeek.com/thread/2857250/blocking-benefits-with-maximum-parameters-between)
 
 > If you in the "Construction phase (II)" play a card that flip the last ocean (or increase last temperature, or oxygen), can players in the "Action phase (III)" gain benefits for flipping oceans and/or TR?
@@ -545,10 +541,6 @@ No. You check at the start of every phase.
 > Since all players play simultaneously, every player may still gain TR or bonus from raising that parameter in the same phase that it maximized. However, at the beginning of the phase, if the temperature is only one step from the maximum, that means only one step is available for all players. May one player still gain 3 TR by playing a "raise 3 temp" card?
 
 Yes. And other players in that same phase could gain TR as well. But after that phase, no one gains TR for raising the temp. It’s to be fair and balanced.
-
-[automated-factories-rules](https://boardgamegeek.com/thread/3334352/automated-factories-rules)
-
-[solarpunk-card-clarification](https://boardgamegeek.com/thread/2988651/solarpunk-card-clarification)
 
 [assembly-lines-clarification](https://boardgamegeek.com/thread/2700584/assembly-lines-clarification)
 
@@ -565,12 +557,6 @@ It would not trigger for standard actions.
 > Does it give you 2 heat and plants for itself as well? Or only future cards played?
 
 In general, effects of cards come into play when the card is already played. So in this case that's too late to trigger from the effect of playing the card itself. Only future cards.
-
-[thoughts-arround-simultaneous-play](https://boardgamegeek.com/thread/3261199/thoughts-arround-simultaneous-play)
-
-[can-you-add-microbes-to-any-card-or-just-cards-tha](https://boardgamegeek.com/thread/2752117/can-you-add-microbes-to-any-card-or-just-cards-tha)
-
-[are-forest-tiles-limited](https://boardgamegeek.com/thread/3082954/are-forest-tiles-limited)
 
 [moving-up-the-blue-track](https://boardgamegeek.com/thread/2705914/moving-up-the-blue-track)
 
@@ -599,4 +585,3 @@ Let's say the Game ends during the Action Phase and Temperature is the Last Para
 
 Correct.
 However, you can always spend MC for forest tokens, even if oxygen is maxed. You get the point for the forest token, but not the TR.
-
