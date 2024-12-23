@@ -263,6 +263,16 @@ You raised the temperature twice, that's 2 animals.
 
 Yeah, in this game tags on Events count for things that count tags.
 
+----
+Page 6
+
+TAG - Tags have no inherent value but are mentioned in the ability section of many cards.
+
+----
+Page 12
+
+Play red cards in either row, you can overlap them so just the tags are showing.
+
 [super-unclear-rulesconfusion](https://boardgamegeek.com/thread/2690458/super-unclear-rulesconfusion)
 
 [question-about-anaerobic-microorganisms](https://boardgamegeek.com/thread/2885572/question-about-anaerobic-microorganisms)
@@ -279,6 +289,35 @@ The ruling on cards like this has always been "per tag."
 >  If in solo mode, the phase chosen by me is the same of the dummy deck, that phase would be played 2 times or only once?
 
 Same as the multi-player game, you play that phase once.
+
+----
+Page 19
+
+The goal of the solo game is to fully terraform Mars before time runs out. All the rules of the game are the same with the following exceptions:
+
+1. Set aside an additional set of five phase cards as a dummy hand. Shuffle that set of cards facedown.
+
+2. Place a player cube of a color you are not using on the 1 on the TR track.
+
+3. Choose a difficulty level: Novice, Advanced, or Expert.
+
+----
+Page 10
+
+Each player simultaneously chooses a phase card from their hand and places it facedown.
+
+Starting with the second round, players will place this card at a 90° angle on top of the last phase card they chose. Players are not allowed to pick the same phase two rounds in a row. After revealing the played phase card, players will return the phase card they chose from the previous round to their hand.
+
+Once all players have done this, the chosen phase cards are revealed. These cards determine which phases are resolved this round. For each phase that was chosen for this round, flip the associated phase tracking token faceup so that the name of the phase is showing.
+
+A player is not allowed to pick the same phase two rounds in a row
+
+----
+Page 11
+
+Each player resolves each of the chosen phases (and only the chosen phases) once in this round. Players resolve each other chosen phase simultaneously. Once all players have finished with a phase, they all move onto the next chosen phase.
+
+If multiple players choose the same phase, that phase is resolved only once. If a phase is not chosen, each player skips that phase this round.
 
 [mining-guild-question](https://boardgamegeek.com/thread/3045518/mining-guild-question)
 
@@ -324,6 +363,16 @@ Multiple, one TR per steel increase.
 
 Read the first sentence of the Production Phase (p. 15) carefully. It says "Each player collects resources equal to the production on their green cards, corporation card, and place on the TR track." It does NOT mention referencing your player board because you technically do not need to use the player boards at all they are simply a note-taking device to help streamline the production step so you don't have to go through every single card in your tableau every time production happens. But that is why the green cards are worded the way they are, because every time production happens you re-evaluate your production values and take what they tell you to take. Using the player boards, It is much easier to keep on top of the small changes upfront. On p. 11, a red box in the Development Phase section reminds you to update your tracks when you play green cards that give you production (orange hashed box) or capabilities (grey hashed box). This is the only time you update your tracks: when you play green cards. 
 
+----
+Page 15
+
+During this phase, each player collects resources equal to the production on their green cards, corporation card, and place on the TR track. 
+
+----
+Page 11
+
+After playing a green card, make sure to adjust the corresponding capability or production track on your player board.
+
 [special-resources](https://boardgamegeek.com/thread/2680466/special-resources)
 
 > How do you keep track of different special resources on cards?
@@ -333,6 +382,16 @@ Use the resource cubes.
 > But how will I not mix it with other special resources?
 
 Put the cubes on each card that collects them. That will keep them separate.
+
+----
+Page 7
+
+Reminder: All resources are either tracked on the player board or on a card if it is a special resource. Use the copper, silver, and gold cubes to track the number of each resource you have. The copper cubes are worth 1, the silver 5, and the gold 10.
+
+----
+Page 7
+
+Special resources - Some cards allow you to place special resources (animals, microbes, and science) on that or other cards. These resources do different things, as specified by the different cards.
 
 [multiple-use-of-effect-for-standard-action](https://boardgamegeek.com/thread/3037598/multiple-use-of-effect-for-standard-action)
 
@@ -346,6 +405,16 @@ That is correct, but note that it is not a rebate. It's not "Pay 15, get back 4"
 
 Yes they do.
 
+----
+Page 6
+
+Corporation cards have five parts:
+1. NAME
+2. TAG - Tags have no inherent value but are mentioned in the ability section of many cards.
+3. LOGO
+4. STARTING RESOURCES - This section tells you how many mega credits (MC) you gain at the start of the game. It may also tell you if you start with any production or other abilities.
+5. EFFECT/ACTION - This shows any ongoing effects or actions you have access to during the game.
+
 [clarifications-livestock-physics-complex-herbivore](https://boardgamegeek.com/thread/2780859/clarifications-livestock-physics-complex-herbivore)
 
 > Livestock Effect: When you raise the temperature, add 1 animal to this card, Physics Complex Effect: When you raise the temperature, add 1 science resource to this card, Herbivores Effect: When you raise oxygen, flip an ocean tile, or raise the temperature, add 1 animal to this card. If a player raises the related global parameter multiple times during a phase, does the effect adds multiple special (animal/science) resources to the cards? 
@@ -357,6 +426,18 @@ Yes. The effect triggers whenever the condition is met, so if the condition is m
 > If I discard a card at any time during the game to gain 3MC is this a one-off? What is the purpose of 2b, the discard = 3MC on the production track?
 
 That's just simply a reminder that you can discard cards for 3MC each. This isn't a one off, it can happen multiple times in a row.
+
+----
+Page 12
+
+The cost to play a project card must be paid with MC. You can use MC cubes you have and/or discard other project cards in your hand at a rate of 3 MC per card. Any overpayment in cards is returned to you using cubes. (Ex. You can play an 8 MC card by discarding two cards and paying 2 MC, or by discarding three cards in hand. If you discard the three cards, you will receive 1 MC back.)
+
+----
+Page 20
+
+End step
+
+During this step, each player discards down to ten cards in hand. For each card discarded this way, that player gains 3 MC as normal.
 
 [green-cards-ability-after-they-are-played](https://boardgamegeek.com/thread/2698533/green-cards-ability-after-they-are-played)
 
