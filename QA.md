@@ -726,12 +726,16 @@ The blue track tracks permanent card draw bonuses. Every time you buy a card tha
 It increases when you play more of that tag. 
 Rulebook page 7, note in the bottom left: "NOTE: Some production cards increase their production when you have more of a specific tag. You'll need to update your player mat every time you play that tag."
 
+----
+Page 7
+
+Note: Some production cards increase their production when you have more of a specific tag. You'll need to update your player mat every time you play that tag.
+
 [tempoxygenocean-limitations-and-scoring-them-the-s](https://boardgamegeek.com/thread/2988187/tempoxygenocean-limitations-and-scoring-them-the-s)
 
 > When a condition reaches maximum e.g. oxygen or temperature, you can increase it more than max and gain vp but only in that specific round, you cannot do it on the next one right?
 
 The distinction between round and phase in this game is key. Every round starts with the planning step, where each player chooses a phase card to be played that round. When a parameter reaches the maximum, players can ignore that and keep on raising it only during that specific phase, not round. 
-
 
 [convert-mc-into-standard-actions-end-of-the-game](https://boardgamegeek.com/thread/3353113/convert-mc-into-standard-actions-end-of-the-game)
 
@@ -740,3 +744,12 @@ Let's say the Game ends during the Action Phase and Temperature is the Last Para
 
 Correct.
 However, you can always spend MC for forest tokens, even if oxygen is maxed. You get the point for the forest token, but not the TR.
+
+----
+Page 14
+
+During the phase in which a global parameter reaches it's maximum (temperature at +8°C, oxygen at 14%, or 9 ocean tiles flipped), all players can continue to take actions or play cards to increase that parameter. They will receive all of the benefits, such as forest VP and TR. During the phase that the last ocean tile is flipped, any player who continues to take actions or play cards to flip oceans will gain the reward on the last ocean tile that was flipped in addition to the TR.
+
+After the phase in which the parameter reached it's maximum, players can no longer gain rewards for increasing that parameter.
+
+Players may continue to gain forest VP tokens for building forests after the phase when oxygen reaches 14%, but won't gain TR for increasing oxygen when they do.
