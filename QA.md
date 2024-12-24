@@ -765,6 +765,11 @@ It would not trigger for standard actions.
 
 In general, effects of cards come into play when the card is already played. So in this case that's too late to trigger from the effect of playing the card itself. Only future cards.
 
+----
+Page 5
+
+EFFECT (Purple) - This appears only on blue cards and shows icons representing an effect which triggers when certain criteria are met. If an effect's condition is met multiple times when a card is played, then resolve the effect multiple times.
+
 [thoughts-arround-simultaneous-play](https://boardgamegeek.com/thread/3261199/thoughts-arround-simultaneous-play)
 
 [can-you-add-microbes-to-any-card-or-just-cards-tha](https://boardgamegeek.com/thread/2752117/can-you-add-microbes-to-any-card-or-just-cards-tha)
