@@ -607,6 +607,11 @@ The symbols you're referring to are called "tags". "Play" means a card moving fr
 
 Under the rules for the Construction Phase, look at the Tip to save table space: "Play red cards in either row, you can overlap them so just the tags are showing."
 
+----
+Page 12
+
+Play red cards in either row, you can overlap them so just the tags are showing.
+
 [corporation-card-effectsactions](https://boardgamegeek.com/thread/2683428/corporation-card-effectsactions)
 
 > Page 6 of the rulebook says Corporation Card Effect/Action: "This shows any ongoing effects or actions you have access to during the game"
@@ -647,6 +652,13 @@ Whenever you spend MC you may spend heat as MC. This does not let you freely con
 
 You can play the phase and the bonus in any order you wish. So yes, you can first draw the bonus card and then play any one card (including the one you just drew).
 
+---
+Page 12
+
+Construction phase:
+
+During this phase, each player may play one blue or one red project card from their hand by paying its cost. Bonus: If you chose this phase, you can either: Draw a card before or after playing a card this phase OR you may play an additional blue or red card this phase.
+
 [nitrate-reducing-bacteria-question](https://boardgamegeek.com/thread/2713208/nitrate-reducing-bacteria-question)
 
 [research-discard](https://boardgamegeek.com/thread/2686174/research-discard)
@@ -655,6 +667,11 @@ You can play the phase and the bonus in any order you wish. So yes, you can firs
 
 From the rule book, Quote: Each player draws two cards, keeps one, and discards the other. Bonus: If you choose this phase, you draw three additional cards and keep one additional card. Meaning, in total, you draw five cards and keep two, discarding the other three.
 It's pretty clear that you discard from cards you just draw.
+
+----
+Page 15
+
+Each player draws two cards, keeps one, and discards the other. Bonus: If you chose this phase, you draw three additional cards and keep one additional card. Meaning, in total, you draw five cards and keep two, discarding the other three.
 
 [red-cards](https://boardgamegeek.com/thread/2808848/red-cards)
 
@@ -672,6 +689,13 @@ They keep counting until the end of the game. Or until an effect removes them fr
 
 Simultaneous play is intended to be played per phase, not uninterrupted for the entire round. The check for card requirements (i.e. minimum Oxygen) is determined at the beginning of the phase it was played. If some players have already moved to Phase V, while you're still playing a card in Phase I, it would be really hard to determine if the requirements were met when all players were in Phase I. The rulebook states that all players must complete a phase before proceeding to the next phase that was played. So everyone must complete phase 1 before moving on to phase 2
 
+----
+Page 20
+
+Resolve Phases Step
+
+During this step, players resolve the phases that were chosen during the planning step. There are no turns, so each player plays each phase at the same time. All players may participate in the selected phases, but players only receive bonuses for the phase they selected. Bonuses are printed in the bottom section of the phase cards. 
+
 [worms-card-effect](https://boardgamegeek.com/thread/2698410/worms-card-effect)
 
 [card-effect-interplanatory-relations](https://boardgamegeek.com/thread/2765900/card-effect-interplanatory-relations)
@@ -681,6 +705,11 @@ Simultaneous play is intended to be played per phase, not uninterrupted for the 
 > When do effect cards trigger? Before during or after you play a card?
 
 Cards effect trigger after you play a card. That being said, cost reductions apply to the playing of the card.
+
+----
+Page 5
+
+EFFECT (Purple) - This appears only on blue cards and shows icons representing an effect which triggers when certain criteria are met. If an effect's condition is met multiple times when a card is played, then resolve the effect multiple times.
 
 [game-end-action-phase](https://boardgamegeek.com/thread/2686777/game-end-action-phase)
 
