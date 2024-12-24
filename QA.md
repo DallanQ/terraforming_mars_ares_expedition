@@ -471,11 +471,16 @@ You already get a bonus for selecting any given phase. I don't think another bon
 
 > After 5 solo rounds at the end game especially during the action phase, It says that you can discard all your cards for 3 MC each and do standard actions as many as possible. So, does the action phase have to be the last phase at the end of the game (no production and research as the last card phase that was chosen)?
 
-The game ends at the end of the phase in which you've played all 9 oceans, reached +8 temperature, and 14% oxygen. This can happen on phases I, II, or III.
+The game ends at the end of the phase in which you've played all 9 oceans, reached +8 degrees Celsius, and 14% oxygen. This can happen on phases I, II, or III.
 
 > If I haven't fulfilled all 3 global parameters during the solo mode, what happens?
 
 You lose if you don't complete all 3 global parameters by the end of round 25.
+
+----
+Page 19
+
+Once five full dummy hands have been played (25 rounds), the game ends. If Mars is fully terraformed, you win. Otherwise, you lose. Finally, you score VP, attempting to achieve as high a score as possible.
 
 [the-phase-in-which-the-last-ocean-tile-is-flipped](https://boardgamegeek.com/thread/3260315/the-phase-in-which-the-last-ocean-tile-is-flipped)
 
@@ -483,11 +488,21 @@ You lose if you don't complete all 3 global parameters by the end of round 25.
 
 It's dependent on the flow of the game. The first player in real time to choose to flip an ocean does so. Etc. So the last ocean flipped in real time is the last ocean flipped. If a player uses an effect to flip two oceans at once, the last ocean flipped is the one they flipped over second. If they use both hands to flip them over at the same time to be a pain, then get new friends
 
+----
+Page 14
+
+During the phase that the last ocean tile is flipped, any player who continues to take actions or play cards to flip oceans will gain the reward on the last ocean tile that was flipped in addition to the TR.
+
 [raising-the-global-parameter-on-the-last-turn](https://boardgamegeek.com/thread/2767089/raising-the-global-parameter-on-the-last-turn)
 
 > During the phase where the global parameter reaches max, are you allowed to raise that parameter as many times as you want, independently of how many steps were available at the start of the phase? For example, at the start of the phase, there is only one ocean tile left, but I have enough money to buy 5 tiles, so: A) I can only buy 1 tile, as there was only one available at the start of the phase; OR B) I can buy the last tile 5 times?
 
 Whatever the last ocean tile is, you get that reward as many times as you "buy" it. And here Page 14 of the rules wrote: During the phase in which a global parameter reaches its maximum (temperature at +8°C, oxygen at 14%, or 9 ocean tiles f[l]ipped), all players can continue to take actions or play cards to increase that parameter. They will receive all of the benefits, such as forest VP and TR. During the phase that the last ocean tile is flipped, any player who continues to take actions or play cards to flip oceans will gain the reward on the last ocean tile that was flipped in addition to the TR.
+
+----
+Page 14 
+
+During the phase in which a global parameter reaches it's maximum (temperature at +8°C, oxygen at 14%, or 9 ocean tiles flipped), all players can continue to take actions or play cards to increase that parameter. They will receive all of the benefits, such as forest VP and TR. During the phase that the last ocean tile is flipped, any player who continues to take actions or play cards to flip oceans will gain the reward on the last ocean tile that was flipped in addition to the TR.
 
 [olympus-conference-draw-or-or-one](https://boardgamegeek.com/thread/2848905/olympus-conference-draw-or-or-one)
 
@@ -502,6 +517,11 @@ So yes, draw two cards.
 
 In this case, yes, with Mining Guild you start with steel capacity on 1. From the rulebook, NOTE: You will always be able to calculate your current production and capabilities by looking at your cards in play. The player board is just more convenient. 
 The wording on the cards is designed so you don't need the production tracks on the player board to play. Your production tracks simply say what your cards are already saying.
+
+----
+Page 7
+
+Note: You will always be able to calculate your current production and capabilities by looking at your cards in play. The player board is just more convenient.
 
 [solo-when-dummy-hand-reveals-the-same-phase-you-ch](https://boardgamegeek.com/thread/2687174/solo-when-dummy-hand-reveals-the-same-phase-you-ch)
 
@@ -533,12 +553,16 @@ It says you can use them, but it will make for a longer game at this player coun
 
 > If you choose the construction phase, can you take the draw-a-card bonus before playing a red or blue card?
 
-Rulebook Page 12 wrote:
-Bonus: If you chose this phase, you can either: Draw a card before or after playing a card this phase OR you may play an additional blue or red card this phase.
+Rulebook Page 12 wrote "Bonus: If you chose this phase, you can either: Draw a card before or after playing a card this phase OR you may play an additional blue or red card this phase."
 
 > Also, does the additional card need to be the same color as the first?
 
 No.
+
+----
+Page 12
+
+During this phase, each player may play one blue or one red project card from their hand by paying its cost. Bonus: If you chose this phase, you can either: Draw a card before or after playing a card this phase OR you may play an additional blue or red card this phase.
 
 [production](https://boardgamegeek.com/thread/2831869/production)
 
@@ -549,6 +573,11 @@ No.
 You both get as many oceans as you can afford. To determine which bonus you get it is important to only flip one ocean tile at a time. Whichever ocean tile was flipped last has the bonus that will be awarded to all further ocean actions for the rest of the phase.
 You can find the rule on page 14 in the rulebook:
 During the phase in which a global parameter reaches its maximum (temperature at +8°C, oxygen at 14%, or 9 ocean tiles fipped), all players can continue to take actions or play cards to increase that parameter. They will receive all of the benefits, such as forest VP and TR. During the phase that the last ocean tile is flipped, any player who continues to take actions or play cards to flip oceans will gain the reward on the last ocean tile that was flipped in addition to the TR.
+
+----
+Page 14 
+
+During the phase in which a global parameter reaches it's maximum (temperature at +8°C, oxygen at 14%, or 9 ocean tiles flipped), all players can continue to take actions or play cards to increase that parameter. They will receive all of the benefits, such as forest VP and TR. During the phase that the last ocean tile is flipped, any player who continues to take actions or play cards to flip oceans will gain the reward on the last ocean tile that was flipped in addition to the TR.
 
 [volcanic-pools-interpretation](https://boardgamegeek.com/thread/2839948/volcanic-pools-interpretation)
 
